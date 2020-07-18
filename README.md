@@ -10,5 +10,5 @@
 
 [![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshkrris&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Thanks for coming here 😊
-Feel free to raise issues, if you find would like to see improvements.
+- Thanks for coming here 😊
+- Feel free to raise issues, if you find would like to see improvements.
