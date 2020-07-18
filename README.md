@@ -8,3 +8,4 @@
 - 💬 Ask me about anything. I shall try to help.
 - 📫 How to reach me: www.ashutoshkrris.github.io
 
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshkrris)](https://github.com/anuraghazra/github-readme-stats)
