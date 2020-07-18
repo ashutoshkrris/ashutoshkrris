@@ -9,5 +9,3 @@
 - 📫 How to reach me: www.ashutoshkrris.github.io
 
 [![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshkrris&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=github-readme-stats)](https://github.com/shutoshkrris/github-readme-stats)
