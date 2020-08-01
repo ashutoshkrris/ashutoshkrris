@@ -8,6 +8,10 @@
 - 👯 I’m looking to collaborate on Web Development Projects using Django or Flask as well as Android Development Projects using Flutter.
 - 💬 Ask me about anything. I shall try to help.
 - 📫 You can find me on my [portfolio site](http://ashutoshkrris.herokuapp.com).
+<!-- links to your social media accounts -->
+[![Twitter: ashutoshkrris](https://img.shields.io/twitter/follow/ashutoshkrris?style=social)](https://twitter.com/ashutoshkrris)
+[![Linkedin: ashutoshkrris](https://img.shields.io/badge/-ashutoshkkris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshkrris/)](https://www.linkedin.com/in/shutoshkrris/)
+[![GitHub ashutoshkrris](https://img.shields.io/github/followers/ashutoshkrris?label=follow&style=social)](https://github.com/shutoshkrris)
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -39,16 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=Flutter-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<div>
-  
-<!-- links to your social media accounts -->
-[![Twitter: ashutoshkrris](https://img.shields.io/twitter/follow/ashutoshkrris?style=social)](https://twitter.com/ashutoshkrris)
-[![Linkedin: ashutoshkrris](https://img.shields.io/badge/-ashutoshkkris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshkrris/)](https://www.linkedin.com/in/shutoshkrris/)
-[![GitHub ashutoshkrris](https://img.shields.io/github/followers/ashutoshkrris?label=follow&style=social)](https://github.com/shutoshkrris)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Ashutosh_Krishna-2648ff?style=flat-square&logo=google-chrome)](http://ashutoshkkris.herokuapp.com/)
 
-</div>
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
