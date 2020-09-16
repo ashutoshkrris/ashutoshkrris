@@ -11,8 +11,8 @@
 - 📫 You can find me on my [portfolio site](http://ashutoshkrris.herokuapp.com).
 <!-- links to your social media accounts -->
 [![Twitter: ashutoshkrris](https://img.shields.io/twitter/follow/ashutoshkrris?style=social)](https://twitter.com/ashutoshkrris)
-[![Linkedin: ashutoshkrris](https://img.shields.io/badge/-ashutoshkkris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshkrris/)](https://www.linkedin.com/in/shutoshkrris/)
-[![GitHub ashutoshkrris](https://img.shields.io/github/followers/ashutoshkrris?label=follow&style=social)](https://github.com/shutoshkrris)
+[![Linkedin: ashutoshkrris](https://img.shields.io/badge/-ashutoshkkris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshkrris/)](https://www.linkedin.com/in/ashutoshkrris/)
+[![GitHub ashutoshkrris](https://img.shields.io/github/followers/ashutoshkrris?label=follow&style=social)](https://github.com/ashutoshkrris)
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -55,6 +55,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+<h3> Show some ❤️ by starring some of the repositories! </h3>
 
 </div>
