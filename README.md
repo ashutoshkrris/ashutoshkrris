@@ -7,10 +7,9 @@
 **ashutoshkrris/ashutoshkrris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Python](https://python.org/).
-- 🔭 I’m currently working for [Navprayas](http://navprayas.in/) as a Backend Developer.
 - 👯 I’m looking to collaborate on Web Development Projects using Django or Flask as well as Android Development Projects using Flutter.
 - 💬 Ask me about anything. I shall try to help.
-- 📫 You can find me on my [portfolio site](http://ashutoshkrris.herokuapp.com).
+- 📫 You can find me on my [portfolio site](https://ashutoshkrris.tk).
 <!-- links to your social media accounts -->
 [![Twitter: ashutoshkrris](https://img.shields.io/twitter/follow/ashutoshkrris?style=social)](https://twitter.com/ashutoshkrris)
 [![Linkedin: ashutoshkrris](https://img.shields.io/badge/-ashutoshkkris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshkrris/)](https://www.linkedin.com/in/ashutoshkrris/)
