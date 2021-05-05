@@ -36,7 +36,11 @@
 <a href="https://github.com/ashutoshkrris/ashutoshkrris">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshkrris&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ashutosh's GitHub Stats" />
 </a>
+<br/>
 
+[![Ashutosh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashutoshkrris&theme=rogue)](https://github.com/ashutoshkrris)
+
+<br/>
 <a href="https://github.com/ashutoshkrris/COVID-19-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=COVID-19-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
