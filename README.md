@@ -19,6 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Searching Algorithms](http://iread.ga/posts/39/searching-algorithms)
+- [The Flask Mega-Tutorial Part 4: Databases](http://iread.ga/posts/38/the-flask-mega-tutorial-part-4-databases)
+- [URL Shortener using Flask](http://iread.ga/posts/37/url-shortener-using-flask)
+- [The Flask Mega-Tutorial Part 3: Web Forms](http://iread.ga/posts/35/the-flask-mega-tutorial-part-3-web-forms)
+- [The Flask Mega-Tutorial Part 2: Templates](http://iread.ga/posts/29/the-flask-mega-tutorial-part-2-templates)
 <!-- BLOG-POST-LIST:END -->
 
 
