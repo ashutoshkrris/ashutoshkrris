@@ -15,6 +15,13 @@
 [![Linkedin: ashutoshkrris](https://img.shields.io/badge/-ashutoshkkris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshkrris/)](https://www.linkedin.com/in/ashutoshkrris/)
 [![GitHub ashutoshkrris](https://img.shields.io/github/followers/ashutoshkrris?label=follow&style=social)](https://github.com/ashutoshkrris)
 
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
