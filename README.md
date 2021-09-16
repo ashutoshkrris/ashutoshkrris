@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DevIncept - Incept... Iterate... Innovate...](http://iread.ga/posts/47/devincept-incept-iterate-innovate)
 - [Selection Sort](http://iread.ga/posts/46/selection-sort)
 - [Bubble Sort](http://iread.ga/posts/45/bubble-sort)
 - [Searching Algorithms](http://iread.ga/posts/39/searching-algorithms)
 - [The Flask Mega-Tutorial Part 4: Databases](http://iread.ga/posts/38/the-flask-mega-tutorial-part-4-databases)
-- [URL Shortener using Flask](http://iread.ga/posts/37/url-shortener-using-flask)
 <!-- BLOG-POST-LIST:END -->
 
 
