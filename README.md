@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Contribute to Open Source as a Beginner](http://iread.ga/posts/48/how-to-contribute-to-open-source-as-a-beginner)
 - [DevIncept - Incept... Iterate... Innovate...](http://iread.ga/posts/47/devincept-incept-iterate-innovate)
 - [Selection Sort](http://iread.ga/posts/46/selection-sort)
 - [Bubble Sort](http://iread.ga/posts/45/bubble-sort)
 - [Searching Algorithms](http://iread.ga/posts/39/searching-algorithms)
-- [The Flask Mega-Tutorial Part 4: Databases](http://iread.ga/posts/38/the-flask-mega-tutorial-part-4-databases)
 <!-- BLOG-POST-LIST:END -->
 
 
