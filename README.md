@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do You Really Need Environment Variables in Python?](http://iread.ga/posts/49/do-you-really-need-environment-variables-in-python)
 - [How to Contribute to Open Source as a Beginner](http://iread.ga/posts/48/how-to-contribute-to-open-source-as-a-beginner)
 - [DevIncept - Incept... Iterate... Innovate...](http://iread.ga/posts/47/devincept-incept-iterate-innovate)
 - [Selection Sort](http://iread.ga/posts/46/selection-sort)
 - [Bubble Sort](http://iread.ga/posts/45/bubble-sort)
-- [Searching Algorithms](http://iread.ga/posts/39/searching-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 
