@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am [Ashutosh Krishna](http://ashutoshkrris.herokuapp.com), a third-year undergrad, pursuing B.Tech in Information Technology from Netaji Subhash Engineering College,Kolkata.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am [Ashutosh Krishna](http://ashutoshkrris.herokuapp.com), a final-year undergrad, pursuing B.Tech in Information Technology from Netaji Subhash Engineering College,Kolkata.
 
 <img align="right" alt="Ashutosh Krishna" src="https://i.imgur.com/Dg5p9rR.png" />
 
@@ -25,6 +25,8 @@
 - [Selection Sort](http://iread.ga/posts/46/selection-sort)
 - [Bubble Sort](http://iread.ga/posts/45/bubble-sort)
 <!-- BLOG-POST-LIST:END -->
+
+## Random Advice
 
 <!-- ADVICE:START -->
 <p align="center"><br><i>Do not seek praise, seek criticism.</i><br></p>
