@@ -26,6 +26,9 @@
 - [Bubble Sort](http://iread.ga/posts/45/bubble-sort)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- ADVICE:START -->
+<!-- ADVICE:END -->
+
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
