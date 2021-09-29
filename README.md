@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.</i><br></p>
+<p align="center"><br><i>When painting a room, preparation is key. The actual painting should account for about 40% of the work.</i><br></p>
 <!-- ADVICE:END -->
 
 
