@@ -27,6 +27,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ADVICE:START -->
+<p align="center"><br><i>If you're going bald, don't comb your hair over your bald patch.</i><br></p>
 <!-- ADVICE:END -->
 
 
