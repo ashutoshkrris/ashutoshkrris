@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Quality beats quantity.</i><br></p>
+<p align="center"><br><i>Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.</i><br></p>
 <!-- ADVICE:END -->
 
 
