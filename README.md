@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Drink a glass of water before meals.</i><br></p>
+<p align="center"><br><i>One of the top five regrets people have is that they didn't stay in contact with friends.</i><br></p>
 <!-- ADVICE:END -->
 
 
