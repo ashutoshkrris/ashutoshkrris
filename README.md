@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once you find a really good friend don't do anything that could mess up your friendship.</i><br></p>
+<p align="center"><br><i>Walking is a perfectly valid solution to traffic congestion problems.</i><br></p>
 <!-- ADVICE:END -->
 
 
