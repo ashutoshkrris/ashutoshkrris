@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never write in an email to someone, something which you wouldn't say to that person's face.</i><br></p>
+<p align="center"><br><i>Everything matters, but nothing matters that much.</i><br></p>
 <!-- ADVICE:END -->
 
 
