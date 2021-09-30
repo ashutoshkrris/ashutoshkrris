@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never waste an opportunity to tell someone you love them.</i><br></p>
+<p align="center"><br><i>Once you find a really good friend don't do anything that could mess up your friendship.</i><br></p>
 <!-- ADVICE:END -->
 
 
