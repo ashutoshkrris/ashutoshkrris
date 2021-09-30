@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.</i><br></p>
+<p align="center"><br><i>Don't give to others advice which you wouldn't follow.</i><br></p>
 <!-- ADVICE:END -->
 
 
