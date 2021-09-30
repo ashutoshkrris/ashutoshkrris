@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're feeling tired or anxious, a pint of water will almost always make you feel better.</i><br></p>
+<p align="center"><br><i>Your smile could make someone's day, don't forget to wear it.</i><br></p>
 <!-- ADVICE:END -->
 
 
