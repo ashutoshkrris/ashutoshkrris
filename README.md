@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your smile could make someone's day, don't forget to wear it.</i><br></p>
+<p align="center"><br><i>Never write in an email to someone, something which you wouldn't say to that person's face.</i><br></p>
 <!-- ADVICE:END -->
 
 
