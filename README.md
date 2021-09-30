@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't give to others advice which you wouldn't follow.</i><br></p>
+<p align="center"><br><i>Sometimes, you just need to say sorry. Even if it's not your fault.</i><br></p>
 <!-- ADVICE:END -->
 
 
