@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Walking is a perfectly valid solution to traffic congestion problems.</i><br></p>
+<p align="center"><br><i>Most things are not as bad as you think they are.</i><br></p>
 <!-- ADVICE:END -->
 
 
