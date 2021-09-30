@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not check work email on your days off.</i><br></p>
+<p align="center"><br><i>Never waste an opportunity to tell someone you love them.</i><br></p>
 <!-- ADVICE:END -->
 
 
