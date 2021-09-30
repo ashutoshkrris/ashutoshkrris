@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.</i><br></p>
+<p align="center"><br><i>Turn jeans inside out when washing them to help preserve their colour.</i><br></p>
 <!-- ADVICE:END -->
 
 
