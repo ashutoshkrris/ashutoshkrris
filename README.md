@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most things are not as bad as you think they are.</i><br></p>
+<p align="center"><br><i>Don't let the bastards grind you down.</i><br></p>
 <!-- ADVICE:END -->
 
 
