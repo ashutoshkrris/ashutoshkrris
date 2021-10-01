@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you've nothing nice to say, say nothing.</i><br></p>
+<p align="center"><br><i>Try making a list.</i><br></p>
 <!-- ADVICE:END -->
 
 
