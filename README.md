@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>No "brand" is your friend.</i><br></p>
+<p align="center"><br><i>Your smile could make someone's day, don't forget to wear it.</i><br></p>
 <!-- ADVICE:END -->
 
 
