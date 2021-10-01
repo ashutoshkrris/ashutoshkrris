@@ -1,7 +1,7 @@
 name: Random Advice Workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 9 * * *' # Runs every day, at 9 AM
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
