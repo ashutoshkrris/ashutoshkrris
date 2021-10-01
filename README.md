@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't assume anything is possible or impossible until you've asked the people who will be doing the work.</i><br></p>
+<p align="center"><br><i>Why wait until valentines day for a romantic gesture?</i><br></p>
 <!-- ADVICE:END -->
 
 
