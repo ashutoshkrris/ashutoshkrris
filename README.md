@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Why wait until valentines day for a romantic gesture?</i><br></p>
+<p align="center"><br><i>If you've nothing nice to say, say nothing.</i><br></p>
 <!-- ADVICE:END -->
 
 
