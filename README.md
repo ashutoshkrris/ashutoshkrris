@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Your smile could make someone's day, don't forget to wear it.</i><br></p>
+<p align="center"><br><i>Don't assume anything is possible or impossible until you've asked the people who will be doing the work.</i><br></p>
 <!-- ADVICE:END -->
 
 
