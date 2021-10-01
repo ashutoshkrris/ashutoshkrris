@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never cut your own fringe.</i><br></p>
+<p align="center"><br><i>You will always regret the round of JÃ¤germeister.</i><br></p>
 <!-- ADVICE:END -->
 
 
