@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember that spiders are more afraid of you, than you are of them.</i><br></p>
+<p align="center"><br><i>Always seek out advice or opinions when making a decision.</i><br></p>
 <!-- ADVICE:END -->
 
 
