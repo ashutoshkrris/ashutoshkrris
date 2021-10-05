@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>No "brand" is your friend.</i><br></p>
+<p align="center"><br><i>Always double check you actually attached the file to the email.</i><br></p>
 <!-- ADVICE:END -->
 
 
