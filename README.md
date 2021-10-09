@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>A common regret in life is wishing one had the courage to be ones true self.</i><br></p>
+<p align="center"><br><i>If you're feeling tired or anxious, a pint of water will almost always make you feel better.</i><br></p>
 <!-- ADVICE:END -->
 
 
