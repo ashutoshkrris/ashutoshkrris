@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try going commando to an important meeting, NB: don't wear a skirt.</i><br></p>
+<p align="center"><br><i>Try using an old idea.</i><br></p>
 <!-- ADVICE:END -->
 
 
