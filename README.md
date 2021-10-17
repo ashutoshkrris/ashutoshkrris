@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't give a speech. Put on a show.</i><br></p>
+<p align="center"><br><i>Quality beats quantity.</i><br></p>
 <!-- ADVICE:END -->
 
 
