@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Quality beats quantity.</i><br></p>
+<p align="center"><br><i>A long walk alone with some time to think, can work wonders.</i><br></p>
 <!-- ADVICE:END -->
 
 
