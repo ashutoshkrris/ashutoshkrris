@@ -29,7 +29,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't always rely on your comforts.</i><br></p>
+<p align="center"><br><i>Don't burn bridges.</i><br></p>
 <!-- ADVICE:END -->
 
 
