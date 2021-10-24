@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>State the problem in words as clearly as possible.</i><br></p>
+<p align="center"><br><i>Don't always believe what you think.</i><br></p>
 <!-- ADVICE:END -->
 
 
