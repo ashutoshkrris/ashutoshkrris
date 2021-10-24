@@ -14,7 +14,8 @@
 [![Twitter: ashutoshkrris](https://img.shields.io/twitter/follow/ashutoshkrris?style=social)](https://twitter.com/ashutoshkrris)
 [![Linkedin: ashutoshkrris](https://img.shields.io/badge/-ashutoshkkris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshkrris/)](https://www.linkedin.com/in/ashutoshkrris/)
 [![GitHub ashutoshkrris](https://img.shields.io/github/followers/ashutoshkrris?label=follow&style=social)](https://github.com/ashutoshkrris)
-
+<br><br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y320QYE)
 
 ## Latest Blog Posts
 
