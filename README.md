@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't always believe what you think.</i><br></p>
+<p align="center"><br><i>One of the top five regrets people have is that they didn't stay in contact with friends.</i><br></p>
 <!-- ADVICE:END -->
 
 
