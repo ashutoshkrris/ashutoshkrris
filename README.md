@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the top five regrets people have is that they didn't stay in contact with friends.</i><br></p>
+<p align="center"><br><i>If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.</i><br></p>
 <!-- ADVICE:END -->
 
 
