@@ -20,11 +20,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Better Brand with Fiverr](http://iread.ga/posts/58/build-a-better-brand-with-fiverr)
 - [GUI Quiz Application using Tkinter and Open Trivia DB](http://iread.ga/posts/56/gui-quiz-application-using-tkinter-and-open-trivia-db)
 - [Creating a News Application using Flask](http://iread.ga/posts/55/creating-a-news-application-using-flask)
 - [Getting Started with Flask](http://iread.ga/posts/54/getting-started-with-flask)
 - [Encrypt and Decrypt PDF Files using Python](http://iread.ga/posts/52/encrypt-and-decrypt-pdf-files-using-python)
-- [Do You Really Need Environment Variables in Python?](http://iread.ga/posts/49/do-you-really-need-environment-variables-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
