@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always the burrito.</i><br></p>
+<p align="center"><br><i>Vinegar is a powerful cleaning agent.</i><br></p>
 <!-- ADVICE:END -->
 
 
