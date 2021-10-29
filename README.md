@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Vinegar is a powerful cleaning agent.</i><br></p>
+<p align="center"><br><i>Hold the door open for the next person.</i><br></p>
 <!-- ADVICE:END -->
 
 
