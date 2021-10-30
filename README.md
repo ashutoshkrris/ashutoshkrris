@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hold the door open for the next person.</i><br></p>
+<p align="center"><br><i>Lemon and salt works wonders on tarnished brass.</i><br></p>
 <!-- ADVICE:END -->
 
 
