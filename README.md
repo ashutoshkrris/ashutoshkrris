@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Lemon and salt works wonders on tarnished brass.</i><br></p>
+<p align="center"><br><i>If it ain't broke don't fix it.</i><br></p>
 <!-- ADVICE:END -->
 
 
