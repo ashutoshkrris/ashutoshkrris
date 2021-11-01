@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If it ain't broke don't fix it.</i><br></p>
+<p align="center"><br><i>You have as many hours in a day as the people you admire most.</i><br></p>
 <!-- ADVICE:END -->
 
 
