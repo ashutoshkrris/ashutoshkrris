@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.</i><br></p>
+<p align="center"><br><i>If you are ever in doubt about whether or not to wash your hair: Wash it.</i><br></p>
 <!-- ADVICE:END -->
 
 
