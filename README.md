@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are ever in doubt about whether or not to wash your hair: Wash it.</i><br></p>
+<p align="center"><br><i>Cars are bad investments.</i><br></p>
 <!-- ADVICE:END -->
 
 
