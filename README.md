@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make choices and dont look back.</i><br></p>
+<p align="center"><br><i>For every complex problem there is an answer that is clear, simple, and wrong.</i><br></p>
 <!-- ADVICE:END -->
 
 
