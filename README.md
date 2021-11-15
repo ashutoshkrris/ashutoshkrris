@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Accept advice.</i><br></p>
+<p align="center"><br><i>If your hair is thinning, try dying your hair a similar tone to your scalp.</i><br></p>
 <!-- ADVICE:END -->
 
 
