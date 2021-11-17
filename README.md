@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never regret. If it's good, it's wonderful. If it's bad, it's experience.</i><br></p>
+<p align="center"><br><i>To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.</i><br></p>
 <!-- ADVICE:END -->
 
 
