@@ -20,11 +20,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Password Vault Screen using Tkinter](http://iread.ga/posts/65/password-vault-screen-using-tkinter)
 - [DSA Sheets You Must Solve](http://iread.ga/posts/64/dsa-sheets-you-must-solve)
 - [Basic Authentication in Password Manager using Tkinter](http://iread.ga/posts/62/basic-authentication-in-password-manager-using-tkinter)
 - [Password Generator using Python and Tkinter](http://iread.ga/posts/60/password-generator-using-python-and-tkinter)
 - [Build a Better Brand with Fiverr](http://iread.ga/posts/58/build-a-better-brand-with-fiverr)
-- [GUI Quiz Application using Tkinter and Open Trivia DB](http://iread.ga/posts/56/gui-quiz-application-using-tkinter-and-open-trivia-db)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
