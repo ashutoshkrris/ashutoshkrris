@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you think nobody cares if you're alive, try missing a few payments.</i><br></p>
+<p align="center"><br><i>Quality beats quantity.</i><br></p>
 <!-- ADVICE:END -->
 
 
