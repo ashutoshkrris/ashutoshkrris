@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you look around and don't see anyone you respect, its time to leave.</i><br></p>
+<p align="center"><br><i>Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.</i><br></p>
 <!-- ADVICE:END -->
 
 
