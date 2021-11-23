@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.</i><br></p>
+<p align="center"><br><i>Some people would be better off if they took their own advice.</i><br></p>
 <!-- ADVICE:END -->
 
 
