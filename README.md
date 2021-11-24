@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some people would be better off if they took their own advice.</i><br></p>
+<p align="center"><br><i>Age is of no importance, unless you are a cheese.</i><br></p>
 <!-- ADVICE:END -->
 
 
