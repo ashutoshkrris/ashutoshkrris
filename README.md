@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Eat food. Not too much, mostly plants.</i><br></p>
+<p align="center"><br><i>If you are ever in doubt about whether or not to wash your hair: Wash it.</i><br></p>
 <!-- ADVICE:END -->
 
 
