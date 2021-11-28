@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are ever in doubt about whether or not to wash your hair: Wash it.</i><br></p>
+<p align="center"><br><i>You're not that important; it's what you do that counts.</i><br></p>
 <!-- ADVICE:END -->
 
 
