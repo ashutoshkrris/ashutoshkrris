@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're not that important; it's what you do that counts.</i><br></p>
+<p align="center"><br><i>No "brand" is your friend.</i><br></p>
 <!-- ADVICE:END -->
 
 
