@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>No "brand" is your friend.</i><br></p>
+<p align="center"><br><i>Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.</i><br></p>
 <!-- ADVICE:END -->
 
 
