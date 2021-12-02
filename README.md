@@ -30,7 +30,7 @@
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone has their down days. Don't take it out on innocent bystanders.</i><br></p>
+<p align="center"><br><i>Respect your elders.</i><br></p>
 <!-- ADVICE:END -->
 
 
