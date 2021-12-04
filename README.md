@@ -1,21 +1,44 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am [Ashutosh Krishna](http://ashutoshkrris.herokuapp.com), a final-year undergrad, pursuing B.Tech in Information Technology from Netaji Subhash Engineering College,Kolkata.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Ashutosh+Krishna;I+love+building+things+that+live+on+the+internet">
+  </a>
+</h1>
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/ashutoshkrris/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/ashutoshkrris/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.instagram.com/ashutoshkrris/" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
+</h5>
+
+I'm a final year undergraduate currently pursuing Bachelors in Information Technology, from NSEC, Kolkata. Outside work, I occasionally blog on [iRead](https://iread.ga/accounts/profile/ashutoshkrris) or [Medium](https://ashutoshkrris.medium.com) to help beginners learn new topics.
 <img align="right" alt="Ashutosh Krishna" src="https://i.imgur.com/Dg5p9rR.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkrris&label=Views&color=blue&style=plastic" alt="ashutoshkrris" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ashutoshkrris&label=Views&color=blue&style=plastic" alt="ashutoshkrris" /> 
+  &nbsp;&nbsp;&nbsp;<a href="https://ko-fi.com/Y8Y320QYE"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
+</p>
+
+## 🔧 Tools & Technologies
+<code><img title="C" height="25" src="images/c.svg"></code>
+<code><img title="Python" height="25" src="images/python-original.svg"></code>
+<code><img title="Django" height="25" src="images/django.png"></code>
+<code><img title="Flask" height="25" src="images/flask.png"></code>
+<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+<code><img title="HTML5" height="25" src="images/html5.svg"></code>
+<code><img title="CSS" height="25" src="images/css.svg"></code>
+<code><img title="Git" height="25" src="images/git-original.svg"></code>
+<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+<code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+<code><img title="Java" height="25" src="images/java-original.svg"></code>
+<code><img title="JSON" height="25" src="images/json.svg"></code>
+<code><img title="GitHub" height="25" src="images/github.svg"></code>
+<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+
+
 <!--😊
 **ashutoshkrris/ashutoshkrris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Python](https://python.org/).
-- 👯 I’m looking to collaborate on Web Development Projects using Django or Flask as well as Android Development Projects using Flutter.
-- 💬 Ask me about anything. I shall try to help.
-- 📫 You can find me on my [portfolio site](https://ashutoshkrris.tk).
-<!-- links to your social media accounts -->
-[![Twitter: ashutoshkrris](https://img.shields.io/twitter/follow/ashutoshkrris?style=social)](https://twitter.com/ashutoshkrris)
-[![Linkedin: ashutoshkrris](https://img.shields.io/badge/-ashutoshkkris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshkrris/)](https://www.linkedin.com/in/ashutoshkrris/)
-[![GitHub ashutoshkrris](https://img.shields.io/github/followers/ashutoshkrris?label=follow&style=social)](https://github.com/ashutoshkrris)
-<br><br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y320QYE)
 
 ## Latest Blog Posts
 
@@ -32,19 +55,6 @@
 <!-- ADVICE:START -->
 <p align="center"><br><i>If you think your headphones are dying, check the socket for fluff with a straightened paperclip.</i><br></p>
 <!-- ADVICE:END -->
-
-
-## 🔧 Tools & Technologies
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=green&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C_Language-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Node_JS-informational?style=flat&logo=node.js&logoColor=green&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDb-informational?style=flat&logo=mongodb&logoColor=green&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -67,21 +77,23 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashutoshkrris)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
-<a href="https://github.com/ashutoshkrris/COVID-19-Analysis">
+<div>
+  <a align="left" href="https://github.com/ashutoshkrris/COVID-19-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=COVID-19-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/ashutoshkrris/iRead">
+<a align="left" href="https://github.com/ashutoshkrris/iRead">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=iRead&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/ashutoshkrris/Amazon-Price-Tracker">
+<a align="right" href="https://github.com/ashutoshkrris/Amazon-Price-Tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=Amazon-Price-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/ashutoshkrris/YouTube-Trending-Videos-Analysis">
+<a align="right" href="https://github.com/ashutoshkrris/YouTube-Trending-Videos-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=YouTube-Trending-Videos-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+</div>
 
 <div align="center">
 
