@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.</i><br></p>
+<p align="center"><br><i>If you're going bald, don't comb your hair over your bald patch.</i><br></p>
 <!-- ADVICE:END -->
 
 
