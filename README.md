@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're going bald, don't comb your hair over your bald patch.</i><br></p>
+<p align="center"><br><i>When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.</i><br></p>
 <!-- ADVICE:END -->
 
 
