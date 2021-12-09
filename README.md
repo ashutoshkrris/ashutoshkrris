@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You will always regret the round of JÃ¤germeister.</i><br></p>
+<p align="center"><br><i>Most things are not as bad as you think they are.</i><br></p>
 <!-- ADVICE:END -->
 
 
