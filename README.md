@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It always seems impossible, until it's done.</i><br></p>
+<p align="center"><br><i>Don't be afraid to ask questions.</i><br></p>
 <!-- ADVICE:END -->
 
 
