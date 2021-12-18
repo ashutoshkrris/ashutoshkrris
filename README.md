@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best sex is fun.</i><br></p>
+<p align="center"><br><i>If you don't like the opinion you've been given, get another one.</i><br></p>
 <!-- ADVICE:END -->
 
 
