@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not seek praise, seek criticism.</i><br></p>
+<p align="center"><br><i>Walking is a perfectly valid solution to traffic congestion problems.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
