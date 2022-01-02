@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When in doubt, just take the next small step.</i><br></p>
+<p align="center"><br><i>Try to do the things that you're incapable of.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
