@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a URL Shortener using Flask](http://iread.ga/posts/82/how-to-create-a-url-shortener-using-flask)
 - [Create Your Own Linkify For Free](http://iread.ga/posts/81/create-your-own-linkify-for-free)
 - [Exception Handling in Python](http://iread.ga/posts/80/exception-handling-in-python)
 - [How to Create a Horoscope API with Beautiful Soup and Flask](http://iread.ga/posts/78/how-to-create-a-horoscope-api-with-beautiful-soup-and-flask)
 - [Python API Tutorial - How to Interact with Web Services](http://iread.ga/posts/77/python-api-tutorial-how-to-interact-with-web-services)
-- [How to Merge Dictionaries in Python](http://iread.ga/posts/76/how-to-merge-dictionaries-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
