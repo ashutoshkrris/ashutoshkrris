@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Look people in the eye.</i><br></p>
+<p align="center"><br><i>Don't promise what you can't deliver.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
