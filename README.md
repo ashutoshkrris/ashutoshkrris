@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once in a while, eat some sweets you used to enjoy when you were younger.</i><br></p>
+<p align="center"><br><i>Do not check work email on your days off.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
