@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's unlucky to be superstitious.</i><br></p>
+<p align="center"><br><i>Accentuate the positive, eliminate the negative.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
