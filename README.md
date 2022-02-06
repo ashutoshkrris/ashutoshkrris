@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone has their down days. Don't take it out on innocent bystanders.</i><br></p>
+<p align="center"><br><i>One of the top five regrets people have is that they didn't have the courage to be their true self.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
