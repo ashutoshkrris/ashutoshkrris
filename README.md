@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be brave. Even if you're not, pretend to be. No one can tell the difference.</i><br></p>
+<p align="center"><br><i>If you've nothing nice to say, say nothing.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
