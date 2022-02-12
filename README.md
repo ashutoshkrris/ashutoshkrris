@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Mercy is the better part of justice.</i><br></p>
+<p align="center"><br><i>A long walk alone with some time to think, can work wonders.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
