@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Respect your elders.</i><br></p>
+<p align="center"><br><i>Never write in an email to someone, something which you wouldn't say to that person's face.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
