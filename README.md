@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.</i><br></p>
+<p align="center"><br><i>Never regret. If it's good, it's wonderful. If it's bad, it's experience.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
