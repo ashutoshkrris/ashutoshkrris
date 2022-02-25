@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Measure twice, cut once.</i><br></p>
+<p align="center"><br><i>Turn jeans inside out when washing them to help preserve their colour.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
