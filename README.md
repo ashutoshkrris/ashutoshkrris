@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hangman Game using Python](http://ireadblog.com/posts/93/hangman-game-using-python)
 - [abs&lpar;&rpar; function in Python](http://ireadblog.com/posts/91/abs-function-in-python)
 - [How to add subscribers to your Revue newsletter programmatically?](http://ireadblog.com/posts/89/how-to-add-subscribers-to-your-revue-newsletter-programmatically)
 - [abstract Modifier in Java](http://ireadblog.com/posts/88/abstract-modifier-in-java)
 - [Getting Rich with Python](http://ireadblog.com/posts/87/getting-rich-with-python)
-- [Object-Oriented Programming in Python](http://ireadblog.com/posts/86/object-oriented-programming-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
