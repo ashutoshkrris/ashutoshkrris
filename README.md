@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can have too much of a good thing.</i><br></p>
+<p align="center"><br><i>Try to not compliment people on things they don't control.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
