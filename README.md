@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try to not compliment people on things they don't control.</i><br></p>
+<p align="center"><br><i>You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
