@@ -6,12 +6,12 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ashutoshkrris/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/ashutoshkrris/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.instagram.com/ashutoshkrris/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
   <code><a href="https://www.instagram.com/ashutoshkrris/" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
 </h5>
 
-I'm a final year undergraduate currently pursuing Bachelors in Information Technology, from NSEC, Kolkata. Outside work, I occasionally blog on [iRead](https://iread.ga/accounts/profile/ashutoshkrris) or [Medium](https://ashutoshkrris.medium.com) to help beginners learn new topics.
+I'm a final year undergraduate currently pursuing Bachelors in Information Technology, from NSEC, Kolkata. Outside work, I occasionally blog on [iRead](https://ireadblog.com/accounts/profile/ashutoshkrris) or [Medium](https://ashutoshkrris.medium.com) to help beginners learn new topics.
 <img align="right" alt="Ashutosh Krishna" src="https://i.imgur.com/Dg5p9rR.png" />
 
 <p align="left"> 
