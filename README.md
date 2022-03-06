@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You never really grow up.</i><br></p>
+<p align="center"><br><i>Have a firm handshake.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
