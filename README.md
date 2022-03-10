@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once you find a really good friend don't do anything that could mess up your friendship.</i><br></p>
+<p align="center"><br><i>Sometimes it's best to ignore other people's advice.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
