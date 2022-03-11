@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [anext&lpar;&rpar; function in Python](http://ireadblog.com/posts/105/anext-function-in-python)
 - [Sentence Rearrangement Game using Python](http://ireadblog.com/posts/104/sentence-rearrangement-game-using-python)
 - [any&lpar;&rpar; function in Python](http://ireadblog.com/posts/102/any-function-in-python)
 - [all&lpar;&rpar; function in Python](http://ireadblog.com/posts/101/all-function-in-python)
 - [aiter&lpar;&rpar; function in Python](http://ireadblog.com/posts/100/aiter-function-in-python)
-- [How to build a Contact Book Application in Python using Rich, Typer and TinyDB](http://ireadblog.com/posts/99/how-to-build-a-contact-book-application-in-python-using-rich-typer-and-tinydb)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
