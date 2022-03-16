@@ -43,11 +43,9 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ascii&lpar;&rpar; function in Python](http://ireadblog.com/posts/106/ascii-function-in-python)
-- [anext&lpar;&rpar; function in Python](http://ireadblog.com/posts/105/anext-function-in-python)
-- [Sentence Rearrangement Game using Python](http://ireadblog.com/posts/104/sentence-rearrangement-game-using-python)
-- [any&lpar;&rpar; function in Python](http://ireadblog.com/posts/102/any-function-in-python)
-- [all&lpar;&rpar; function in Python](http://ireadblog.com/posts/101/all-function-in-python)
+- [Getting Started With TinyDB](http://ireadblog.com/posts/109/getting-started-with-tinydb)
+- [Getting Rich with Python](http://ireadblog.com/posts/108/getting-rich-with-python)
+- [Sentence Rearrangement Game using Python](http://ireadblog.com/posts/107/sentence-rearrangement-game-using-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
