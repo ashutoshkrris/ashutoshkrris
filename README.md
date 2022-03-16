@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exception Handling in Python](http://ireadblog.com/posts/130/exception-handling-in-python)
+- [Object-Oriented Programming in Python](http://ireadblog.com/posts/129/object-oriented-programming-in-python)
+- [abstract Modifier in Java](http://ireadblog.com/posts/128/abstract-modifier-in-java)
+- [Everything you need to know about Python Dictionaries](http://ireadblog.com/posts/127/everything-you-need-to-know-about-python-dictionaries)
 - [How to Merge Dictionaries in Python](http://ireadblog.com/posts/126/how-to-merge-dictionaries-in-python)
-- [How to add subscribers to your Revue newsletter programmatically?](http://ireadblog.com/posts/125/how-to-add-subscribers-to-your-revue-newsletter-programmatically)
-- [Hangman Game using Python](http://ireadblog.com/posts/124/hangman-game-using-python)
-- [Get Location Information of IP Address Using Python](http://ireadblog.com/posts/123/get-location-information-of-ip-address-using-python)
-- [Encrypt and Decrypt PDF Files using Python](http://ireadblog.com/posts/122/encrypt-and-decrypt-pdf-files-using-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
