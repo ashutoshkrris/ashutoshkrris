@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ascii&lpar;&rpar; function in Python](http://ireadblog.com/posts/117/ascii-function-in-python)
+- [anext&lpar;&rpar; function in Python](http://ireadblog.com/posts/116/anext-function-in-python)
+- [any&lpar;&rpar; function in Python](http://ireadblog.com/posts/115/any-function-in-python)
 - [all&lpar;&rpar; function in Python](http://ireadblog.com/posts/114/all-function-in-python)
 - [aiter&lpar;&rpar; function in Python](http://ireadblog.com/posts/113/aiter-function-in-python)
-- [abs&lpar;&rpar; function in Python](http://ireadblog.com/posts/112/abs-function-in-python)
-- [How to build a Contact Book Application in Python using Rich, Typer and TinyDB](http://ireadblog.com/posts/111/how-to-build-a-contact-book-application-in-python-using-rich-typer-and-tinydb)
-- [Getting Started With TinyDB](http://ireadblog.com/posts/109/getting-started-with-tinydb)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
