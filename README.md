@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a GUI Quiz Application using Tkinter and Open Trivia DB](http://ireadblog.com/posts/137/how-to-build-a-gui-quiz-application-using-tkinter-and-open-trivia-db)
 - [Buzz of the Dev Community: Bhailang](http://ireadblog.com/posts/136/buzz-of-the-dev-community-bhailang)
 - [How to Create a Horoscope API with Beautiful Soup and Flask](http://ireadblog.com/posts/135/how-to-create-a-horoscope-api-with-beautiful-soup-and-flask)
 - [Prime Numbers using Sieve of Eratosthenes in Python](http://ireadblog.com/posts/134/prime-numbers-using-sieve-of-eratosthenes-in-python)
 - [How to display numbers with leading zeros using Python?](http://ireadblog.com/posts/133/how-to-display-numbers-with-leading-zeros-using-python)
-- [How to know your horoscope using Python?](http://ireadblog.com/posts/132/how-to-know-your-horoscope-using-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
