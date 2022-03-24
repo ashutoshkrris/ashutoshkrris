@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are ever in doubt about whether or not to wash your hair: Wash it.</i><br></p>
+<p align="center"><br><i>Life is short enough, don't race to the finish.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
