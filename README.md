@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be a good lover.</i><br></p>
+<p align="center"><br><i>Never set an alarm clock unless you know how to switch it off</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
