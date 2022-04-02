@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [bool&lpar;&rpar; function in Python](http://ireadblog.com/posts/158/bool-function-in-python)
 - [Build a Wordle Clone using Python and Rich](http://ireadblog.com/posts/156/build-a-wordle-clone-using-python-and-rich)
 - [*args and **kwargs in Python](http://ireadblog.com/posts/155/args-and-kwargs-in-python)
 - [bin&lpar;&rpar; function in Python](http://ireadblog.com/posts/154/bin-function-in-python)
 - [Text to Speech using Web Speech API](http://ireadblog.com/posts/153/text-to-speech-using-web-speech-api)
-- [Deployment of Grocery Bag App on Heroku &lpar;Part-VI&rpar;](http://ireadblog.com/posts/152/deployment-of-grocery-bag-app-on-heroku-part-vi)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
