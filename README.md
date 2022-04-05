@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't always believe what you think.</i><br></p>
+<p align="center"><br><i>Don't ever name files or folders using the word "Final".</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
