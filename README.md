@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enjoy a little nonsense now and then.</i><br></p>
+<p align="center"><br><i>If you can't do anything about it, there's no point in worrying about it.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
