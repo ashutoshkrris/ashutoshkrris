@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Lists in Python?](http://ireadblog.com/posts/164/what-are-lists-in-python)
 - [Introduction to Data Structures and Algorithms](http://ireadblog.com/posts/162/introduction-to-data-structures-and-algorithms)
 - [How to unpack Python list or tuple the better way?](http://ireadblog.com/posts/161/how-to-unpack-python-list-or-tuple-the-better-way)
 - [Python Rich is getting richer](http://ireadblog.com/posts/160/python-rich-is-getting-richer)
 - [Getting Started With PysonDB](http://ireadblog.com/posts/159/getting-started-with-pysondb)
-- [bool&lpar;&rpar; function in Python](http://ireadblog.com/posts/158/bool-function-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
