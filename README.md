@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can't do anything about it, there's no point in worrying about it.</i><br></p>
+<p align="center"><br><i>Most things done in secrecy are better left undone.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
