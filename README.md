@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Drink a glass of water before meals.</i><br></p>
+<p align="center"><br><i>Opinions are like arseholes, everyone has one.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
