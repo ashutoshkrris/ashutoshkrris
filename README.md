@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's always the quiet ones.</i><br></p>
+<p align="center"><br><i>It's wrong to be right.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
