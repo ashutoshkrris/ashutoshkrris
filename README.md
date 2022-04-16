@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't try and bump start a motorcycle on an icy road.</i><br></p>
+<p align="center"><br><i>Always double check you actually attached the file to the email.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
