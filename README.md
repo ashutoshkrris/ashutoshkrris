@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Smile and the world smiles with you. Frown and you're on your own.</i><br></p>
+<p align="center"><br><i>Never run a marathon in Crocs.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
