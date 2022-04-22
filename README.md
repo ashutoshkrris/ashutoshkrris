@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is better when you sing about bananas.</i><br></p>
+<p align="center"><br><i>You will always regret the round of JÃ¤germeister.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
