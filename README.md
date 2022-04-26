@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>No "brand" is your friend.</i><br></p>
+<p align="center"><br><i>Most things look better when you put them in a circle.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
