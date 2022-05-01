@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Age is of no importance, unless you are a cheese.</i><br></p>
+<p align="center"><br><i>When faced with a choice, do both.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
