@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not compare yourself with others.</i><br></p>
+<p align="center"><br><i>Don't give to others advice which you wouldn't follow.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
