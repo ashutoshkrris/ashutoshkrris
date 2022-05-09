@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the single best things about being an adult, is being able to buy as much LEGO as you want.</i><br></p>
+<p align="center"><br><i>If you need cheering up, try searching online for photos of kittens.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
