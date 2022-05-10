@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you need cheering up, try searching online for photos of kittens.</i><br></p>
+<p align="center"><br><i>If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
