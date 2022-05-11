@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.</i><br></p>
+<p align="center"><br><i>If you get stuck, try doing the opposite of what the solution requires.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
