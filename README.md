@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you get stuck, try doing the opposite of what the solution requires.</i><br></p>
+<p align="center"><br><i>Mercy is the better part of justice.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
