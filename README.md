@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Currency Exchange](http://ireadblog.com/posts/176/currency-exchange)
 - [How to use Ternary Operator in Python?](http://ireadblog.com/posts/175/how-to-use-ternary-operator-in-python)
 - [Ghost Gobble Arcade Game](http://ireadblog.com/posts/174/ghost-gobble-arcade-game)
 - [Find Vulnerabilities using Snyk](http://ireadblog.com/posts/173/find-vulnerabilities-using-snyk)
 - [How to use break, pass and continue in Python?](http://ireadblog.com/posts/172/how-to-use-break-pass-and-continue-in-python)
-- [Guido&#39;s Gorgeous Lasagna](http://ireadblog.com/posts/170/guidos-gorgeous-lasagna)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
