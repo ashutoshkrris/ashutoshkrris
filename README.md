@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try making a list.</i><br></p>
+<p align="center"><br><i>The hardest things to say are usually the most important.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
