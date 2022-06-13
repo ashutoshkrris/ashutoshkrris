@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The most important thing is the thing most easily forgotten.</i><br></p>
+<p align="center"><br><i>Respect other people's opinions, even when they differ from your own.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
