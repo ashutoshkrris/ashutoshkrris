@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.</i><br></p>
+<p align="center"><br><i>Try using an old idea.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
