@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try using an old idea.</i><br></p>
+<p align="center"><br><i>Pedantry is fine, unless you're on the receiving end. And not a pedant.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
