@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't take life too seriously.</i><br></p>
+<p align="center"><br><i>You can fail at what you don't want. So you might as well take a chance on doing what you love.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
