@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you think your headphones are dying, check the socket for fluff with a straightened paperclip.</i><br></p>
+<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
