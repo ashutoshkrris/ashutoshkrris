@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you're looking up at birds flying overhead, keep your mouth closed.</i><br></p>
+<p align="center"><br><i>Always bet on black.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
