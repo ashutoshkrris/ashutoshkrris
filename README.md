@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [bytes&lpar;&rpar; function in Python](http://ireadblog.com/posts/186/bytes-function-in-python)
 - [How to convert Decimal Integer to Binary in Python?](http://ireadblog.com/posts/185/how-to-convert-decimal-integer-to-binary-in-python)
 - [Meltdown Mitigation](http://ireadblog.com/posts/184/meltdown-mitigation)
 - [Stack Data Structure in Python](http://ireadblog.com/posts/178/stack-data-structure-in-python)
 - [How to check Balanced Brackets using Python](http://ireadblog.com/posts/177/how-to-check-balanced-brackets-using-python)
-- [Currency Exchange](http://ireadblog.com/posts/176/currency-exchange)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
