@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Gratitude is said to be the secret to happiness.</i><br></p>
+<p align="center"><br><i>You never really grow up.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
