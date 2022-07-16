@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.</i><br></p>
+<p align="center"><br><i>Repeat people's names when you meet them.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
