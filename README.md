@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.</i><br></p>
+<p align="center"><br><i>Good advice is something a man gives when he is too old to set a bad example.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
