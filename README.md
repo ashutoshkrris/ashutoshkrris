@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Good advice is something a man gives when he is too old to set a bad example.</i><br></p>
+<p align="center"><br><i>Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
