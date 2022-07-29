@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to be happily married, marry a happy person.</i><br></p>
+<p align="center"><br><i>The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
