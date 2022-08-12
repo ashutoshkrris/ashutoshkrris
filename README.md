@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Hold the door open for the next person.</i><br></p>
+<p align="center"><br><i>Happiness is a journey, not a destination.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
