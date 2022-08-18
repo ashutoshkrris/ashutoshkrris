@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If it ain't broke don't fix it.</i><br></p>
+<p align="center"><br><i>Don't drink bleach.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
