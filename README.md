@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Eliminate the unnecessary.</i><br></p>
+<p align="center"><br><i>Play is the true mother of invention.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
