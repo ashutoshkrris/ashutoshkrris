@@ -43,11 +43,11 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to send automatic birthday wishes on WhatsApp?](http://ireadblog.com/posts/225/how-to-send-automatic-birthday-wishes-on-whatsapp)
 - [callable&lpar;&rpar; function in Python](http://ireadblog.com/posts/224/callable-function-in-python)
 - [Introduction to Linked Lists](http://ireadblog.com/posts/187/introduction-to-linked-lists)
 - [bytes&lpar;&rpar; function in Python](http://ireadblog.com/posts/186/bytes-function-in-python)
 - [How to convert Decimal Integer to Binary in Python?](http://ireadblog.com/posts/185/how-to-convert-decimal-integer-to-binary-in-python)
-- [Meltdown Mitigation](http://ireadblog.com/posts/184/meltdown-mitigation)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
