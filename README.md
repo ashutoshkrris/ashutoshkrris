@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Identify sources of happiness.</i><br></p>
+<p align="center"><br><i>Always get two ciders.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
