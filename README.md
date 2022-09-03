@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always seek out advice or opinions when making a decision.</i><br></p>
+<p align="center"><br><i>The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
