@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Some of life's best lessons are learnt at the worst times.</i><br></p>
+<p align="center"><br><i>The more ideas that you give away, the more ideas that will come to you.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
