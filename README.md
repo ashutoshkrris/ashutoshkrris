@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you don't ask, you don't get.</i><br></p>
+<p align="center"><br><i>Only those who attempt the impossible can achieve the absurd.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
