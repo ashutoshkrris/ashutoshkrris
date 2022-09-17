@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remember that spiders are more afraid of you, than you are of them.</i><br></p>
+<p align="center"><br><i>No one knows anyone else in the way you do.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
