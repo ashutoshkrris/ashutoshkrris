@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have as many hours in a day as the people you admire most.</i><br></p>
+<p align="center"><br><i>As you get older, learn never to trust a fart.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
