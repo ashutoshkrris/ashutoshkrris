@@ -53,7 +53,7 @@ I'm a final year undergraduate currently pursuing Bachelors in Information Techn
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always block trolls.</i><br></p>
+<p align="center"><br><i>One of the top five regrets people have is that they didn't stay in contact with friends.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
