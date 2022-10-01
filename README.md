@@ -43,11 +43,11 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Jack - Exercism Solution](http://ireadblog.com/posts/360/black-jack-exercism-solution)
 - [chr&lpar;&rpar; function in Python](http://ireadblog.com/posts/319/chr-function-in-python)
 - [How to send automatic birthday wishes on WhatsApp?](http://ireadblog.com/posts/225/how-to-send-automatic-birthday-wishes-on-whatsapp)
 - [callable&lpar;&rpar; function in Python](http://ireadblog.com/posts/224/callable-function-in-python)
 - [Introduction to Linked Lists](http://ireadblog.com/posts/187/introduction-to-linked-lists)
-- [bytes&lpar;&rpar; function in Python](http://ireadblog.com/posts/186/bytes-function-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
