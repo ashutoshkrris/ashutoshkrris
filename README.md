@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Walking is a perfectly valid solution to traffic congestion problems.</i><br></p>
+<p align="center"><br><i>Never regret. If it's good, it's wonderful. If it's bad, it's experience.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
