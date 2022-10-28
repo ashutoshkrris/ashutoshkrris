@@ -43,11 +43,11 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Jack - Exercism Solution](http://ireadblog.com/posts/360/black-jack-exercism-solution)
-- [chr&lpar;&rpar; function in Python](http://ireadblog.com/posts/319/chr-function-in-python)
-- [How to send automatic birthday wishes on WhatsApp?](http://ireadblog.com/posts/225/how-to-send-automatic-birthday-wishes-on-whatsapp)
-- [callable&lpar;&rpar; function in Python](http://ireadblog.com/posts/224/callable-function-in-python)
-- [Introduction to Linked Lists](http://ireadblog.com/posts/187/introduction-to-linked-lists)
+- [How to Integrate Proxy with Python Requests](https://python.plainenglish.io/how-to-integrate-proxy-with-python-requests-ca772a89c1aa?source=rss-b66584c2ea41------2)
+- [How to Use Blueprints in Flask](https://python.plainenglish.io/how-to-use-blueprints-in-flask-3d29b5858ec1?source=rss-b66584c2ea41------2)
+- [How to convert Decimal Integer to Binary in Python?](https://python.plainenglish.io/how-to-convert-decimal-integer-to-binary-in-python-92c6c44dc0fa?source=rss-b66584c2ea41------2)
+- [How to check Balanced Brackets using Python](https://python.plainenglish.io/how-to-check-balanced-brackets-using-python-e130c607a1ac?source=rss-b66584c2ea41------2)
+- [How to use Ternary Operator in Python?](https://python.plainenglish.io/how-to-use-ternary-operator-in-python-ab83431ae0b8?source=rss-b66584c2ea41------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
