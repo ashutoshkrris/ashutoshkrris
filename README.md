@@ -60,15 +60,11 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 
 Checkout my DEV Profile [@ashutoshkrris](https://dev.to/ashutoshkrris)
 
-<a href="https://dev.to/badge/hacktoberfest-2020" target="_blank">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=100>
-</a>
-<a href="https://dev.to/badge/hacktoberfest-2020" target="_blank">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" width=100>
-</a>
-<a href="https://dev.to/badge/hacktoberfest-2020" target="_blank">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width=100>
-</a>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7LzjnbaB--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/9/2year-Badge-shadow__1_.png" width=100>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width=100>
 
 
 ## &#x1f4c8; GitHub Stats
