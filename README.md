@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you think your headphones are dying, check the socket for fluff with a straightened paperclip.</i><br></p>
+<p align="center"><br><i>Try to pay at least one person a compliment every day.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
