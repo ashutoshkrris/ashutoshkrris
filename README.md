@@ -43,11 +43,11 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating automated product descriptions with ChatGPT, React, and Node.js](https://ashutoshkrris.medium.com/creating-automated-product-descriptions-with-chatgpt-react-and-node-js-dcbe276f7e99?source=rss-b66584c2ea41------2)
 - [The #1 Nodejs ecommerce backend: Medusa](https://ashutoshkrris.medium.com/the-1-nodejs-ecommerce-backend-medusa-6df936a84886?source=rss-b66584c2ea41------2)
 - [How to Set Up an Ecommerce Store with Medusa and Docker](https://medium.com/medusa-commerce/how-to-set-up-an-ecommerce-store-with-medusa-and-docker-af66510edade?source=rss-b66584c2ea41------2)
 - [How to Integrate Proxy with Python Requests](https://python.plainenglish.io/how-to-integrate-proxy-with-python-requests-ca772a89c1aa?source=rss-b66584c2ea41------2)
 - [How to Use Blueprints in Flask](https://python.plainenglish.io/how-to-use-blueprints-in-flask-3d29b5858ec1?source=rss-b66584c2ea41------2)
-- [How to convert Decimal Integer to Binary in Python?](https://python.plainenglish.io/how-to-convert-decimal-integer-to-binary-in-python-92c6c44dc0fa?source=rss-b66584c2ea41------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
