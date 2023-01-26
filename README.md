@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i><br></p>
+<p align="center"><br><i>Some of life's best lessons are learnt at the worst times.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
