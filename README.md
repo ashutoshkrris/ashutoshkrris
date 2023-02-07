@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>A problem shared is a problem halved.</i><br></p>
+<p align="center"><br><i>Once you find a really good friend don't do anything that could mess up your friendship.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
