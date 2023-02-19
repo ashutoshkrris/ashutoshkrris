@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everyone has their down days. Don't take it out on innocent bystanders.</i><br></p>
+<p align="center"><br><i>A common regret in life is wishing one had the courage to be ones true self.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
