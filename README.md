@@ -43,11 +43,11 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Automate Customer Group Assignment in Medusa](https://ashutoshkrris.medium.com/how-to-automate-customer-group-assignment-in-medusa-b1a779d0a5f4?source=rss-b66584c2ea41------2)
 - [Mastering Lambdas: A Guide to Anonymous Functions in Python](https://python.plainenglish.io/mastering-lambdas-a-guide-to-anonymous-functions-in-python-6e18fa0ad2d3?source=rss-b66584c2ea41------2)
 - [Creating automated product descriptions with ChatGPT, React, and Node.js](https://ashutoshkrris.medium.com/creating-automated-product-descriptions-with-chatgpt-react-and-node-js-dcbe276f7e99?source=rss-b66584c2ea41------2)
 - [The #1 Nodejs ecommerce backend: Medusa](https://ashutoshkrris.medium.com/the-1-nodejs-ecommerce-backend-medusa-6df936a84886?source=rss-b66584c2ea41------2)
 - [How to Set Up an Ecommerce Store with Medusa and Docker](https://medium.com/medusa-commerce/how-to-set-up-an-ecommerce-store-with-medusa-and-docker-af66510edade?source=rss-b66584c2ea41------2)
-- [How to Integrate Proxy with Python Requests](https://python.plainenglish.io/how-to-integrate-proxy-with-python-requests-ca772a89c1aa?source=rss-b66584c2ea41------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
