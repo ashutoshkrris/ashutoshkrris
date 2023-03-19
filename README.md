@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.</i><br></p>
+<p align="center"><br><i>Once in a while, eat some sweets you used to enjoy when you were younger.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
