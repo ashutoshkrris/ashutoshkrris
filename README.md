@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Good advice is something a man gives when he is too old to set a bad example.</i><br></p>
+<p align="center"><br><i>When painting a room, preparation is key. The actual painting should account for about 40% of the work.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
