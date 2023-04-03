@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Be brave. Even if you're not, pretend to be. No one can tell the difference.</i><br></p>
+<p align="center"><br><i>Happiness is a journey, not a destination.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
