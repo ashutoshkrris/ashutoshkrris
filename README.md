@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't assume anything is possible or impossible until you've asked the people who will be doing the work.</i><br></p>
+<p align="center"><br><i>Never waste an opportunity to tell someone you love them.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
