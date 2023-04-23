@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is short enough, don't race to the finish.</i><br></p>
+<p align="center"><br><i>Drink a glass of water before meals.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
