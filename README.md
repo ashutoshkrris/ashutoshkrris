@@ -43,11 +43,11 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Strategy Design Pattern](https://ashutoshkrris.medium.com/a-beginners-guide-to-strategy-design-pattern-b5b618b74d2e?source=rss-b66584c2ea41------2)
 - [SOLID Principles for Better Software Design](https://ashutoshkrris.medium.com/solid-principles-for-better-software-design-c261985407d8?source=rss-b66584c2ea41------2)
 - [Mastering List Destructuring and Packing in Python: A Comprehensive Guide](https://python.plainenglish.io/mastering-list-destructuring-and-packing-in-python-a-comprehensive-guide-53e70867ce59?source=rss-b66584c2ea41------2)
 - [How to Automate Customer Group Assignment in Medusa](https://ashutoshkrris.medium.com/how-to-automate-customer-group-assignment-in-medusa-b1a779d0a5f4?source=rss-b66584c2ea41------2)
 - [Mastering Lambdas: A Guide to Anonymous Functions in Python](https://python.plainenglish.io/mastering-lambdas-a-guide-to-anonymous-functions-in-python-6e18fa0ad2d3?source=rss-b66584c2ea41------2)
-- [Creating automated product descriptions with ChatGPT, React, and Node.js](https://ashutoshkrris.medium.com/creating-automated-product-descriptions-with-chatgpt-react-and-node-js-dcbe276f7e99?source=rss-b66584c2ea41------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
