@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Vinegar is a powerful cleaning agent.</i><br></p>
+<p align="center"><br><i>You have as many hours in a day as the people you admire most.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
