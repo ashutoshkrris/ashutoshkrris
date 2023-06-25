@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The higher up you are in a company, the more likely it is that your boss is a psychopath.</i><br></p>
+<p align="center"><br><i>True happiness always resides in the quest.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
