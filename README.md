@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Gratitude is said to be the secret to happiness.</i><br></p>
+<p align="center"><br><i>Repeat people's names when you meet them.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
