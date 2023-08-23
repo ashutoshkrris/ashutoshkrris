@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>A long walk alone with some time to think, can work wonders.</i><br></p>
+<p align="center"><br><i>Don't promise what you can't deliver.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
