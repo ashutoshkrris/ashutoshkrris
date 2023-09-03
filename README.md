@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can have too much of a good thing.</i><br></p>
+<p align="center"><br><i>Gratitude is said to be the secret to happiness.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
