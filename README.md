@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never pay full price for a sofa at DFS.</i><br></p>
+<p align="center"><br><i>When faced with a choice, do both.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
