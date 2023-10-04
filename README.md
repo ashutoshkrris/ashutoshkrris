@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who never made a mistake never made anything.</i><br></p>
+<p align="center"><br><i>Visitors are like fish: As much as you might like them, after three days they start to smell.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
