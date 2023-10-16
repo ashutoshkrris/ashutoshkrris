@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Lemon and salt works wonders on tarnished brass.</i><br></p>
+<p align="center"><br><i>Don't judge a book by its cover, unless it has a synopsis on the back.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
