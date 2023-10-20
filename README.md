@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Only those who attempt the impossible can achieve the absurd.</i><br></p>
+<p align="center"><br><i>Hold the door open for the next person.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
