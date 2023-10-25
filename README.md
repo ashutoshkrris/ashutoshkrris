@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you're looking up at birds flying overhead, keep your mouth closed.</i><br></p>
+<p align="center"><br><i>Brush your teeth the moment you get up.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
