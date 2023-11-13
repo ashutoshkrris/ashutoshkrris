@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.</i><br></p>
+<p align="center"><br><i>Don't be afraid of silly ideas.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
