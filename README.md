@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You will always regret the round of JÃ¤germeister.</i><br></p>
+<p align="center"><br><i>Everything matters, but nothing matters that much.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
