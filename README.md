@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's unlucky to be superstitious.</i><br></p>
+<p align="center"><br><i>Never waste an opportunity to tell someone you love them.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
