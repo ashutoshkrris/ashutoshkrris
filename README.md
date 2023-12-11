@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You don't need to floss all of your teeth. Only the ones you want to keep.</i><br></p>
+<p align="center"><br><i>Never set an alarm clock unless you know how to switch it off</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
