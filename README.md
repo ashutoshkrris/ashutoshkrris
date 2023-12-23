@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Eat food. Not too much, mostly plants.</i><br></p>
+<p align="center"><br><i>A nod is as good as a wink to a blind horse.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
