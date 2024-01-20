@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you need cheering up, try searching online for photos of kittens.</i><br></p>
+<p align="center"><br><i>Always seek out advice or opinions when making a decision.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
