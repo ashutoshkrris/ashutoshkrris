@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.</i><br></p>
+<p align="center"><br><i>One of the single best things about being an adult, is being able to buy as much LEGO as you want.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
