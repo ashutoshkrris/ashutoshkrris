@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The more ideas that you give away, the more ideas that will come to you.</i><br></p>
+<p align="center"><br><i>Do not seek praise, seek criticism.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
