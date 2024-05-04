@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most things done in secrecy are better left undone.</i><br></p>
+<p align="center"><br><i>Accept advice.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
