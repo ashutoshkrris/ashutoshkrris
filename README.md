@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Exercise in the rain can really make you feel alive.</i><br></p>
+<p align="center"><br><i>Always get two ciders.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
