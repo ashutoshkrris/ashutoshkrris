@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't wear clean trousers when walking your dog in the park.</i><br></p>
+<p align="center"><br><i>Walking is a perfectly valid solution to traffic congestion problems.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
