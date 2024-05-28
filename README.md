@@ -43,9 +43,9 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Generate OTPs Using PyOTP in Python](https://python.plainenglish.io/how-to-generate-otps-using-pyotp-in-python-3b8722ee49eb?source=rss-b66584c2ea41------2)
-- [A Beginner’s Guide to the JSON Module in Python](https://python.plainenglish.io/a-beginners-guide-to-the-json-module-in-python-1bddf3c20b0f?source=rss-b66584c2ea41------2)
-- [How To Download YouTube Playlist Using Python](https://python.plainenglish.io/how-to-download-youtube-playlist-using-python-4e832989e017?source=rss-b66584c2ea41------2)
+- [How To Generate OTPs Using PyOTP in Python](https://ashutoshkrris.medium.com/how-to-generate-otps-using-pyotp-in-python-3b8722ee49eb?source=rss-b66584c2ea41------2)
+- [A Beginner’s Guide to the JSON Module in Python](https://ashutoshkrris.medium.com/a-beginners-guide-to-the-json-module-in-python-1bddf3c20b0f?source=rss-b66584c2ea41------2)
+- [How To Download YouTube Playlist Using Python](https://ashutoshkrris.medium.com/how-to-download-youtube-playlist-using-python-4e832989e017?source=rss-b66584c2ea41------2)
 - [A Beginner’s Guide to Strategy Design Pattern](https://ashutoshkrris.medium.com/a-beginners-guide-to-strategy-design-pattern-b5b618b74d2e?source=rss-b66584c2ea41------2)
 - [SOLID Principles for Better Software Design](https://ashutoshkrris.medium.com/solid-principles-for-better-software-design-c261985407d8?source=rss-b66584c2ea41------2)
 <!-- BLOG-POST-LIST:END -->
