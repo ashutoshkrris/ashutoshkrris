@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't try and bump start a motorcycle on an icy road.</i><br></p>
+<p align="center"><br><i>Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
