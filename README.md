@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Most things are not as bad as you think they are.</i><br></p>
+<p align="center"><br><i>If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
