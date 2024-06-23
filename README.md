@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't burn bridges.</i><br></p>
+<p align="center"><br><i>If it still itches after a week, go to the doctors.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
