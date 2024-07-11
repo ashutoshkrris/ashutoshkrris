@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If your hair is thinning, try dying your hair a similar tone to your scalp.</i><br></p>
+<p align="center"><br><i>If you don't want something to be public, don't post it on the Internet.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
