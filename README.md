@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always double check you actually attached the file to the email.</i><br></p>
+<p align="center"><br><i>If you want to be happily married, marry a happy person.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
