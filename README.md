@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything in moderation, including moderation itself.</i><br></p>
+<p align="center"><br><i>The most important thing is the thing most easily forgotten.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
