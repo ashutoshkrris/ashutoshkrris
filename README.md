@@ -43,11 +43,11 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Instant Search with Flask and HTMX](https://python.plainenglish.io/implementing-instant-search-with-flask-and-htmx-7d5ea928fd65?source=rss-b66584c2ea41------2)
 - [Comparable vs Comparator Explained in Java](https://ashutoshkrris.medium.com/comparable-vs-comparator-explained-in-java-0aabaedf8d47?source=rss-b66584c2ea41------2)
 - [How To Generate OTPs Using PyOTP in Python](https://python.plainenglish.io/how-to-generate-otps-using-pyotp-in-python-3b8722ee49eb?source=rss-b66584c2ea41------2)
 - [A Beginner’s Guide to the JSON Module in Python](https://python.plainenglish.io/a-beginners-guide-to-the-json-module-in-python-1bddf3c20b0f?source=rss-b66584c2ea41------2)
 - [How To Download YouTube Playlist Using Python](https://python.plainenglish.io/how-to-download-youtube-playlist-using-python-4e832989e017?source=rss-b66584c2ea41------2)
-- [A Beginner’s Guide to Strategy Design Pattern](https://ashutoshkrris.medium.com/a-beginners-guide-to-strategy-design-pattern-b5b618b74d2e?source=rss-b66584c2ea41------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Random Advice
