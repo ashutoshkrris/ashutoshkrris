@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the top five regrets people have is that they didn't stay in contact with friends.</i><br></p>
+<p align="center"><br><i>Life can be a lot more interesting inside your head.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
