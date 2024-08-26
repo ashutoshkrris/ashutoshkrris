@@ -53,7 +53,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give up your seat for someone who needs it.</i><br></p>
+<p align="center"><br><i>The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
