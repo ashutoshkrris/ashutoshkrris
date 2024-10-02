@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When the cistern is filling, the seat is probably still warm.</i><br></p>
+<p align="center"><br><i>When hugging, hug with both arms and apply reasonable, affectionate pressure.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
