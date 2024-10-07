@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Why wait until valentines day for a romantic gesture?</i><br></p>
+<p align="center"><br><i>A common regret in life is wishing one hadn't worked so hard.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
