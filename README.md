@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Pedantry is fine, unless you're on the receiving end. And not a pedant.</i><br></p>
+<p align="center"><br><i>Eat food. Not too much, mostly plants.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
