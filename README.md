@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You can fail at what you don't want. So you might as well take a chance on doing what you love.</i><br></p>
+<p align="center"><br><i>The quieter you become, the more you can hear.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
