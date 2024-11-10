@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try to not compliment people on things they don't control.</i><br></p>
+<p align="center"><br><i>Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
