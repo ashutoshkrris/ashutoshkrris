@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Mercy is the better part of justice.</i><br></p>
+<p align="center"><br><i>Don't try and bump start a motorcycle on an icy road.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
