@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>To improve productivity, always have a shittier task to put off.</i><br></p>
+<p align="center"><br><i>Good things come to those who wait.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
