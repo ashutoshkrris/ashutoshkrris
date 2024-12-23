@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You will always regret the round of JÃ¤germeister.</i><br></p>
+<p align="center"><br><i>Never write in an email to someone, something which you wouldn't say to that person's face.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
