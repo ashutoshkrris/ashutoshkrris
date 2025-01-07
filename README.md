@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Drink a glass of water before meals.</i><br></p>
+<p align="center"><br><i>A common regret in life is wishing one hadn't worked so hard.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
