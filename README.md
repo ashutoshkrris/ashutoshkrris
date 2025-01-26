@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to be happily married, marry a happy person.</i><br></p>
+<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
