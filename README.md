@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try using an old idea.</i><br></p>
+<p align="center"><br><i>Rule number 1: Try not to die. Rule number 2: Don't be a dick.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
