@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never regret. If it's good, it's wonderful. If it's bad, it's experience.</i><br></p>
+<p align="center"><br><i>Be brave. Even if you're not, pretend to be. No one can tell the difference.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
