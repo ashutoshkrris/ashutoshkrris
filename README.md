@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're going bald, don't comb your hair over your bald patch.</i><br></p>
+<p align="center"><br><i>Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
