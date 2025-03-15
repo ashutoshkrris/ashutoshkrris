@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everybody makes mistakes.</i><br></p>
+<p align="center"><br><i>You never really grow up.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
