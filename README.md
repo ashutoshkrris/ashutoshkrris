@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.</i><br></p>
+<p align="center"><br><i>Most things done in secrecy are better left undone.</i><br></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
