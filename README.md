@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When in doubt, just take the next small step.</i><br></p>
+<p align="center"><br><i>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</i><br>— Eric Hoffer</p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
