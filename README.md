@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.</i><br>— Eric Hoffer</p>
+<p align="center"><br><i>It is easier to fight for one's principles than to live up to them. </i><br>— Alfred Adler</p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
