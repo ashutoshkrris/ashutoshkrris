@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is easier to fight for one's principles than to live up to them. </i><br>— Alfred Adler</p>
+<p align="center"><br><i>I have no methods; all I do is accept people as they are.</i><br>— Joan Rivers</p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
