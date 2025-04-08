@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>I have no methods; all I do is accept people as they are.</i><br>— Joan Rivers</p>
+<p align="center"><br><i>Death walks faster than the wind and never returns what he has taken.</i><br>— Hans Christian Andersen</p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
