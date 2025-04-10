@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You are free, and that is why you are lost.</i><br>— Franz Kafka</p>
+<p align="center"><br><i>Don't take it personally.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
