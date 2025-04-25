@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Respect your elders.</i></p>
+<p align="center"><br><i>Everything in moderation, including moderation itself.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
