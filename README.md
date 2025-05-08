@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're going bald, don't comb your hair over your bald patch.</i></p>
+<p align="center"><br><i>Work is never as important as you think it is.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
