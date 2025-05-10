@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enjoy a little nonsense now and then.</i></p>
+<p align="center"><br><i>Accentuate the positive, eliminate the negative.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
