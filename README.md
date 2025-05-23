@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't be afraid to ask questions.</i></p>
+<p align="center"><br><i>Always double check you actually attached the file to the email.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
