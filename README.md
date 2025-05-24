@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always double check you actually attached the file to the email.</i></p>
+<p align="center"><br><i>Rule number 1: Try not to die. Rule number 2: Don't be a dick.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
