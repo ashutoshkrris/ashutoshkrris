@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Walking is a perfectly valid solution to traffic congestion problems.</i></p>
+<p align="center"><br><i>Brush your teeth the moment you get up.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
