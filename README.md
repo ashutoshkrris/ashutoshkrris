@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Give up your seat for someone who needs it.</i></p>
+<p align="center"><br><i>Don't drink bleach.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
