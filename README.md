@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work is never as important as you think it is.</i></p>
+<p align="center"><br><i>Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
