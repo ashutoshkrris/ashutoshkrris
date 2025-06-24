@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Vinegar is a powerful cleaning agent.</i></p>
+<p align="center"><br><i>Never cut your own fringe.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
