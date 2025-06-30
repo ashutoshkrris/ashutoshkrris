@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Taking photos with tablet devices looks weird.</i></p>
+<p align="center"><br><i>Age is of no importance, unless you are a cheese.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
