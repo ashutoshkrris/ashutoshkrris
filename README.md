@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't wear clean trousers when walking your dog in the park.</i></p>
+<p align="center"><br><i>We can spend our whole lives escaping from the monsters of our minds.</i><br>— Pema Chodron</p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
