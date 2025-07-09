@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</i><br>— Albert Einstein</p>
+<p align="center"><br><i>Don't be afraid to ask questions.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
