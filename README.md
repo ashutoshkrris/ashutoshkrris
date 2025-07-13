@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you need cheering up, try searching online for photos of kittens.</i></p>
+<p align="center"><br><i>The wise learn many things from their enemies.</i><br>— Aristophanes</p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
