@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The wise learn many things from their enemies.</i><br>— Aristophanes</p>
+<p align="center"><br><i>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</i><br>— Elon Musk</p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
