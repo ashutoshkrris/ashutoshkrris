@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</i><br>— Elon Musk</p>
+<p align="center"><br><i>Try to not compliment people on things they don't control.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
