@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try to not compliment people on things they don't control.</i></p>
+<p align="center"><br><i>If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
