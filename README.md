@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.</i></p>
+<p align="center"><br><i>Don't take it personally.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
