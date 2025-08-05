@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Once in a while, eat some sweets you used to enjoy when you were younger.</i></p>
+<p align="center"><br><i>Good advice is something a man gives when he is too old to set a bad example.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
