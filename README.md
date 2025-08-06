@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Good advice is something a man gives when he is too old to set a bad example.</i></p>
+<p align="center"><br><i>The higher up you are in a company, the more likely it is that your boss is a psychopath.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
