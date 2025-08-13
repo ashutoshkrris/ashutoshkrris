@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always get two ciders.</i></p>
+<p align="center"><br><i>Fail. Fail again. Fail better.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
