@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>As things get closer to the light, the shadows get darker.</i></p>
+<p align="center"><br><i>If you want to be happily married, marry a happy person.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
