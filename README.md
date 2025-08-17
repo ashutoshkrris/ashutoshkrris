@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't promise what you can't deliver.</i></p>
+<p align="center"><br><i>Identify sources of happiness.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
