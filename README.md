@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Identify sources of happiness.</i></p>
+<p align="center"><br><i>Never set an alarm clock unless you know how to switch it off</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
