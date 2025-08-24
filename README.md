@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When something goes wrong in life, just shout "plot twist!" and carry on.</i></p>
+<p align="center"><br><i>You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
