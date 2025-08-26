@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Quality beats quantity.</i></p>
+<p align="center"><br><i>Do not check work email on your days off.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
