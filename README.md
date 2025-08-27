@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not check work email on your days off.</i></p>
+<p align="center"><br><i>Smile and the world smiles with you. Frown and you're on your own.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
