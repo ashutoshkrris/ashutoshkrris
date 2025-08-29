@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You will always regret the round of Tequila.</i></p>
+<p align="center"><br><i>Don't take it personally.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
