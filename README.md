@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't take it personally.</i></p>
+<p align="center"><br><i>Don't be afraid to ask questions.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
