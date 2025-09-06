@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sarcasm is the lowest form of wit. Employ correctly with apt timing.</i></p>
+<p align="center"><br><i>Pedantry is fine, unless you're on the receiving end. And not a pedant.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
