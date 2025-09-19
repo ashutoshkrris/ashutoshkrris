@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Do not compare yourself with others.</i></p>
+<p align="center"><br><i>Once in a while, eat some sweets you used to enjoy when you were younger.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
