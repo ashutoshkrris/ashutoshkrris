@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't be afraid to ask questions.</i></p>
+<p align="center"><br><i>If you're feeling tired or anxious, a pint of water will almost always make you feel better.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
