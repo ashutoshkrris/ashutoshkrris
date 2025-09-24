@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't assume anything is possible or impossible until you've asked the people who will be doing the work.</i></p>
+<p align="center"><br><i>The most important thing is the thing most easily forgotten.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
