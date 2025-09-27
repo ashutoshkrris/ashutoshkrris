@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The best sex is fun.</i></p>
+<p align="center"><br><i>Everything matters, but nothing matters that much.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
