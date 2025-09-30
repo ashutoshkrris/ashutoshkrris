@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is short enough, don't race to the finish.</i></p>
+<p align="center"><br><i>Always seek out advice or opinions when making a decision.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
