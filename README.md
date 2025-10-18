@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.</i></p>
+<p align="center"><br><i>Enjoy a little nonsense now and then.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
