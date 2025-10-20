@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's not about who likes you, it's about who you like.</i></p>
+<p align="center"><br><i>Don't eat non-snow-coloured snow.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
