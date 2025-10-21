@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't eat non-snow-coloured snow.</i></p>
+<p align="center"><br><i>If you need cheering up, try searching online for photos of kittens.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
