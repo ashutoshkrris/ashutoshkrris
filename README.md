@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When hugging, hug with both arms and apply reasonable, affectionate pressure.</i></p>
+<p align="center"><br><i>Eat food. Not too much, mostly plants.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
