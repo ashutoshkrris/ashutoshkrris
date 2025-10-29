@@ -52,7 +52,7 @@ I'm currently working as an Application Developer at Thoughtworks. Outside work,
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work is never as important as you think it is.</i></p>
+<p align="center"><br><i>The best nights out are when people around you are simply having fun.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
