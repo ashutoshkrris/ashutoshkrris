@@ -10,7 +10,7 @@
   <code><a href="https://www.github.com/ashutoshkrris/" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
 </h5>
 
-I'm currently working as an Application Developer at Thoughtworks. Outside work, I occasionally blog on [Medium](https://ashutoshkrris.medium.com) to help beginners learn new topics.
+I'm currently working as an Software Engineer at OpenText. Outside work, I occasionally blog on [Medium](https://ashutoshkrris.medium.com) to help beginners learn new topics.
 <img align="right" alt="Ashutosh Krishna" src="https://i.imgur.com/Dg5p9rR.png" />
 
 <p align="left"> 
