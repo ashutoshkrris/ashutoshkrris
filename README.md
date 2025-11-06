@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Eat food. Not too much, mostly plants.</i></p>
+<p align="center"><br><i>If your hair is thinning, try dying your hair a similar tone to your scalp.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
