@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When in doubt, just take the next small step.</i></p>
+<p align="center"><br><i>One of the top five regrets people have is that they didn't have the courage to be their true self.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
