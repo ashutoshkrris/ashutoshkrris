@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.</i></p>
+<p align="center"><br><i>Quality beats quantity.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
