@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Quality beats quantity.</i></p>
+<p align="center"><br><i>You never really grow up.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
