@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You never really grow up.</i></p>
+<p align="center"><br><i>If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
