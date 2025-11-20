@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never waste an opportunity to tell someone you love them.</i></p>
+<p align="center"><br><i>Try to not compliment people on things they don't control.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
