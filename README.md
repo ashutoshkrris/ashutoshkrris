@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try to not compliment people on things they don't control.</i></p>
+<p align="center"><br><i>It's unlucky to be superstitious.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
