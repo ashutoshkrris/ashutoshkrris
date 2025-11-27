@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If it still itches after a week, go to the doctors.</i></p>
+<p align="center"><br><i>Don't drink bleach.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
