@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>No one knows anyone else in the way you do.</i></p>
+<p align="center"><br><i>Never pay full price for a sofa at DFS.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
