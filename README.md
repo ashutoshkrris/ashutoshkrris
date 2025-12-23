@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>For every complex problem there is an answer that is clear, simple, and wrong.</i></p>
+<p align="center"><br><i>Do a bit more for your friends.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
