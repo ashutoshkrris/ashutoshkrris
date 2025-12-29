@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.</i></p>
+<p align="center"><br><i>Life can be a lot more interesting inside your head.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
