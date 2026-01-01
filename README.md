@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never write in an email to someone, something which you wouldn't say to that person's face.</i></p>
+<p align="center"><br><i>If you need cheering up, try searching online for photos of kittens.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
