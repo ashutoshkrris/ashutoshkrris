@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you need cheering up, try searching online for photos of kittens.</i></p>
+<p align="center"><br><i>It's unlucky to be superstitious.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
