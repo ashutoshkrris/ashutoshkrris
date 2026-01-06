@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.</i></p>
+<p align="center"><br><i>It's wrong to be right.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
