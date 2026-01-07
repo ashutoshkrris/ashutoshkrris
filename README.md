@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It's wrong to be right.</i></p>
+<p align="center"><br><i>The more ideas that you give away, the more ideas that will come to you.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
