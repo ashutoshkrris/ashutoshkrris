@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the single best things about being an adult, is being able to buy as much LEGO as you want.</i></p>
+<p align="center"><br><i>YOLO</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
