@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't ever name files or folders using the word "Final".</i></p>
+<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
