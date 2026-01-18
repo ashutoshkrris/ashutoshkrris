@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try to do the things that you're incapable of.</i></p>
+<p align="center"><br><i>Never cut your own fringe.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
