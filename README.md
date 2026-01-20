@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>As things get closer to the light, the shadows get darker.</i></p>
+<p align="center"><br><i>Work is never as important as you think it is.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
