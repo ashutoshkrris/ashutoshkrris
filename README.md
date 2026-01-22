@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.</i></p>
+<p align="center"><br><i>To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
