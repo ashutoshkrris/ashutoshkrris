@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Age is of no importance, unless you are a cheese.</i></p>
+<p align="center"><br><i>Enjoy a little nonsense now and then.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
