@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Enjoy a little nonsense now and then.</i></p>
+<p align="center"><br><i>Simple words, repeated daily, can change your life.</i><br>— Maxime Lagace</p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
