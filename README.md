@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Play is the true mother of invention.</i></p>
+<p align="center"><br><i>The quieter you become, the more you can hear.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
