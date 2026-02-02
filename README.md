@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Cars are bad investments.</i></p>
+<p align="center"><br><i>The higher up you are in a company, the more likely it is that your boss is a psychopath.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
