@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The higher up you are in a company, the more likely it is that your boss is a psychopath.</i></p>
+<p align="center"><br><i>Put a piece of kitchen roll in with your bag of leaves to make them last longer.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
