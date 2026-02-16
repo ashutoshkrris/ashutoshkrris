@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you want to be happily married, marry a happy person.</i></p>
+<p align="center"><br><i>If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
