@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always seek out advice or opinions when making a decision.</i></p>
+<p align="center"><br><i>When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
