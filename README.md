@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is easy to sit up and take notice, what's difficult is getting up and taking action.</i></p>
+<p align="center"><br><i>If you don't want something to be public, don't post it on the Internet.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
