@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't waste food.</i></p>
+<p align="center"><br><i>Sometimes it's best to ignore other people's advice.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
