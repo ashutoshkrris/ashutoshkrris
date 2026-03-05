@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The quieter you become, the more you can hear.</i></p>
+<p align="center"><br><i>You will always regret the round of Tequila.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
