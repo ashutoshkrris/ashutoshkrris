@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Put a piece of kitchen roll in with your bag of leaves to make them last longer.</i></p>
+<p align="center"><br><i>Happiness is a journey, not a destination.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
