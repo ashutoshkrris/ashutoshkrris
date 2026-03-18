@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Everything in moderation, including moderation itself.</i></p>
+<p align="center"><br><i>As things get closer to the light, the shadows get darker.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
