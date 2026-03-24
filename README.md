@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>One of the top five regrets people have is that they didn't stay in contact with friends.</i></p>
+<p align="center"><br><i>If you're feeling tired or anxious, a pint of water will almost always make you feel better.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
