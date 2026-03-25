@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you're feeling tired or anxious, a pint of water will almost always make you feel better.</i></p>
+<p align="center"><br><i>What could you increase? What could you reduce?</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
