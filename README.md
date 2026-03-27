@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>A nod is as good as a wink to a blind horse.</i></p>
+<p align="center"><br><i>One of the top five regrets people have is that they didn't stay in contact with friends.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
