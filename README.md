@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't assume anything is possible or impossible until you've asked the people who will be doing the work.</i></p>
+<p align="center"><br><i>Play is the true mother of invention.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
