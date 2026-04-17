@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work is never as important as you think it is.</i></p>
+<p align="center"><br><i>If you can't do anything about it, there's no point in worrying about it.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
