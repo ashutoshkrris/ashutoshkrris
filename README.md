@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Big things have small beginnings.</i></p>
+<p align="center"><br><i>The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
