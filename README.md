@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Just because you are offended, doesn't mean you are right.</i></p>
+<p align="center"><br><i>Only those who attempt the impossible can achieve the absurd.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
