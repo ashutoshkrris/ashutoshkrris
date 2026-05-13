@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't judge a book by its cover, unless it has a synopsis on the back.</i></p>
+<p align="center"><br><i>You will always regret the round of Tequila.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
