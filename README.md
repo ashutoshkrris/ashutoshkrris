@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never run with scissors.</i></p>
+<p align="center"><br><i>The best nights out are when people around you are simply having fun.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
