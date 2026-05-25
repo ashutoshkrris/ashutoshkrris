@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never run a marathon in Crocs.</i></p>
+<p align="center"><br><i>Cars are bad investments.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
