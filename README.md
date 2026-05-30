@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you have the chance, take it!</i></p>
+<p align="center"><br><i>Always block trolls.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
