@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>A long walk alone with some time to think, can work wonders.</i></p>
+<p align="center"><br><i>Don't take life too seriously.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
