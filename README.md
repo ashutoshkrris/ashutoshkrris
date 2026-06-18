@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When painting a room, preparation is key. The actual painting should account for about 40% of the work.</i></p>
+<p align="center"><br><i>No "brand" is your friend.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
