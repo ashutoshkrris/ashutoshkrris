@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Taking photos with tablet devices looks weird.</i></p>
+<p align="center"><br><i>If you think nobody cares if you're alive, try missing a few payments.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
