@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make choices and dont look back.</i></p>
+<p align="center"><br><i>Turn jeans inside out when washing them to help preserve their colour.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
