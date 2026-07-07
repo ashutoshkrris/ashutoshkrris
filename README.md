@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You're not that important; it's what you do that counts.</i></p>
+<p align="center"><br><i>It's always the quiet ones.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
