@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Things are just things. Don't get too attached to them.</i></p>
+<p align="center"><br><i>Measure twice, cut once.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
