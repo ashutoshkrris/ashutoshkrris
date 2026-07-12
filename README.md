@@ -52,7 +52,7 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 ## Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Measure twice, cut once.</i></p>
+<p align="center"><br><i>Vinegar is a powerful cleaning agent.</i></p>
 <!-- ADVICE:END -->
 
 ## Badges Earned on DEV
