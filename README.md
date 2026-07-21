@@ -1,45 +1,53 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Ashutosh+Krishna;I+love+building+things+that+live+on+the+internet">
-  </a>
-</h1>
+<div align="center">
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ashutoshkrris/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.twitter.com/ashutoshkrris/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.github.com/ashutoshkrris/" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
-</h5>
+# Hi there, I'm Ashutosh Krishna 👋
+### **Software Engineer at OpenText**
 
-I'm currently working as an Software Engineer at OpenText. Outside work, I occasionally blog on [Medium](https://ashutoshkrris.medium.com) to help beginners learn new topics.
-<img align="right" alt="Ashutosh Krishna" src="https://i.imgur.com/Dg5p9rR.png" />
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshkrris/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ashutoshkrris/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ashutoshkrris.medium.com)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.ashutoshkrris.in)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ashutoshkrris&label=Views&color=blue&style=plastic" alt="ashutoshkrris" /> 
-  &nbsp;&nbsp;&nbsp;<a href="https://ko-fi.com/Y8Y320QYE"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
-</p>
+---
 
-## 🔧 Tools & Technologies
-<code><img title="C" height="25" src="images/c.svg"></code>
-<code><img title="Python" height="25" src="images/python-original.svg"></code>
-<code><img title="Django" height="25" src="images/django.png"></code>
-<code><img title="Flask" height="25" src="images/flask.png"></code>
-<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-<code><img title="CSS" height="25" src="images/css.svg"></code>
-<code><img title="Git" height="25" src="images/git-original.svg"></code>
-<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-<code><img title="Java" height="25" src="images/java-original.svg"></code>
-<code><img title="JSON" height="25" src="images/json.svg"></code>
-<code><img title="GitHub" height="25" src="images/github.svg"></code>
-<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+</div>
 
+## 🚀 About Me
 
-<!--😊
-**ashutoshkrris/ashutoshkrris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I am a Software Engineer passionate about backend architecture, full-stack web development, and building scalable applications. Outside of work, I write technical articles to simplify engineering concepts for developers.
 
-## Latest Blog Posts
+* 💼 **Role:** Software Engineer @ **OpenText**
+* ✍️ **Blogging:** Technical Writer on [Medium](https://ashutoshkrris.medium.com) & [Hashnode](https://blog.ashutoshkrris.in)
+* 💬 **Ask me about:** Java, Spring Boot, Python, Angular, and API Architecture
+* ☕ **Support:** Feel free to [buy me a coffee](https://ko-fi.com/Y8Y320QYE)
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### **Frontend Development**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📰 Latest Publications
 
 <!-- BLOG-POST-LIST:START -->
 - [Stop Misusing POST for Search: Welcome to the HTTP QUERY Method](https://ashutoshkrris.medium.com/stop-misusing-post-for-search-welcome-to-the-http-query-method-f139d4ebd6f9?source=rss-b66584c2ea41------2)
@@ -49,63 +57,29 @@ I'm currently working as an Software Engineer at OpenText. Outside work, I occas
 - [From Symptoms to Root Cause: How to Use the 5 Whys Technique](https://ashutoshkrris.medium.com/from-symptoms-to-root-cause-how-to-use-the-5-whys-technique-7640df5ff1f8?source=rss-b66584c2ea41------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Random Advice
+---
 
-<!-- ADVICE:START -->
-<p align="center"><br><i>Enjoy a little nonsense now and then.</i></p>
-<!-- ADVICE:END -->
+## 📊 Analytics & Activity
 
-## Badges Earned on DEV
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-stats-extended.vercel.app/api?username=ashutoshkrris&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashutoshkrris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=ashutoshkrris" alt="Streak Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
-Checkout my DEV Profile [@ashutoshkrris](https://dev.to/ashutoshkrris)
-
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=100></a>
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" width=100></a>
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width=100></a>
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7LzjnbaB--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/9/2year-Badge-shadow__1_.png" width=100></a>
-<a><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width=100></a>
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/ashutoshkrris/ashutoshkrris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkrris&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/ashutoshkrris/ashutoshkrris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshkrris&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ashutosh's GitHub Stats" />
-</a>
-<br/><br/>
-
-[![Ashutosh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashutoshkrris&theme=rogue)](https://github.com/ashutoshkrris)
-
-
-<br/><br/>
-![Ashutosh's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkrris) 
-
-<br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashutoshkrris)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-<div>
-  <a align="left" href="https://github.com/ashutoshkrris/COVID-19-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=COVID-19-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a align="left" href="https://github.com/ashutoshkrris/iRead">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=iRead&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a align="right" href="https://github.com/ashutoshkrris/Amazon-Price-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=Amazon-Price-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a align="right" href="https://github.com/ashutoshkrris/YouTube-Trending-Videos-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkrris&repo=YouTube-Trending-Videos-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-</div>
+---
 
 <div align="center">
-
-<h3> Show some ❤️ by starring some of the repositories! </h3>
-
+  <sub>Profile views</sub><br/>
+  <img src="https://komarev.com/ghpvc/?username=ashutoshkrris&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
