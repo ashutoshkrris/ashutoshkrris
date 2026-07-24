@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Cars are bad investments.</i></p>
+<p align="center"><br><i>Once you find a really good friend don't do anything that could mess up your friendship.</i></p>
 <!-- ADVICE:END -->
 
 ---
