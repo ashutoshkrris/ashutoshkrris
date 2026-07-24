@@ -79,6 +79,13 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 
 ---
 
+## 💡 Random Advice
+
+<!-- ADVICE:START -->
+<!-- ADVICE:END -->
+
+---
+
 <div align="center">
   <sub>Profile views</sub><br/>
   <img src="https://komarev.com/ghpvc/?username=ashutoshkrris&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
