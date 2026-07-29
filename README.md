@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>True happiness always resides in the quest.</i></p>
+<p align="center"><br><i>Plant a tree.</i></p>
 <!-- ADVICE:END -->
 
 ---
