@@ -50,11 +50,11 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 📰 Latest Publications
 
 <!-- BLOG-POST-LIST:START -->
+- [How OAuth 2.0 Works: A Practical Guide for Backend Developers](https://ashutoshkrris.medium.com/how-oauth-2-0-works-a-practical-guide-for-backend-developers-630977209476?source=rss-b66584c2ea41------2)
 - [Stop Misusing POST for Search: Welcome to the HTTP QUERY Method](https://ashutoshkrris.medium.com/stop-misusing-post-for-search-welcome-to-the-http-query-method-f139d4ebd6f9?source=rss-b66584c2ea41------2)
 - [The Ultimate Guide to the Java Singleton Pattern](https://ashutoshkrris.medium.com/the-ultimate-guide-to-the-java-singleton-pattern-98a7740c1468?source=rss-b66584c2ea41------2)
 - [RabbitMQ vs Kafka: Key Differences, Trade-offs, and When to Use Each](https://ashutoshkrris.medium.com/rabbitmq-vs-kafka-key-differences-trade-offs-and-when-to-use-each-7e329afc9a72?source=rss-b66584c2ea41------2)
 - [Build AI Apps with Gradio: Turn Your Python Scripts into Web Apps](https://python.plainenglish.io/build-ai-apps-with-gradio-turn-your-python-scripts-into-web-apps-05d35b0b9c79?source=rss-b66584c2ea41------2)
-- [From Symptoms to Root Cause: How to Use the 5 Whys Technique](https://ashutoshkrris.medium.com/from-symptoms-to-root-cause-how-to-use-the-5-whys-technique-7640df5ff1f8?source=rss-b66584c2ea41------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
