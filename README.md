@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try making a list.</i></p>
+<p align="center"><br><i>The sun always shines above the clouds.</i></p>
 <!-- ADVICE:END -->
 
 ---
