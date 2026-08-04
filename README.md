@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try going commando to an important meeting, NB: don't wear a skirt.</i></p>
+<p align="center"><br><i>The person who never made a mistake never made anything.</i></p>
 <!-- ADVICE:END -->
 
 ---
