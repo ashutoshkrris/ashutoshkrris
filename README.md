@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The person who never made a mistake never made anything.</i></p>
+<p align="center"><br><i>Accentuate the positive, eliminate the negative.</i></p>
 <!-- ADVICE:END -->
 
 ---
