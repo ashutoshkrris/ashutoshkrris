@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Life is short enough, don't race to the finish.</i></p>
+<p align="center"><br><i>Don't wear clean trousers when walking your dog in the park.</i></p>
 <!-- ADVICE:END -->
 
 ---
