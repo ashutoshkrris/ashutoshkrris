@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Walking is a perfectly valid solution to traffic congestion problems.</i></p>
+<p align="center"><br><i>Never set an alarm clock unless you know how to switch it off</i></p>
 <!-- ADVICE:END -->
 
 ---
