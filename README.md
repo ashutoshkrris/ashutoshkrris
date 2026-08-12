@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>The hardest things to say are usually the most important.</i></p>
+<p align="center"><br><i>Always block trolls.</i></p>
 <!-- ADVICE:END -->
 
 ---
