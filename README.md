@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Cars are bad investments.</i></p>
+<p align="center"><br><i>If you've nothing nice to say, say nothing.</i></p>
 <!-- ADVICE:END -->
 
 ---
