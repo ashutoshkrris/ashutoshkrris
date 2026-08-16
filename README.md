@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you've nothing nice to say, say nothing.</i></p>
+<p align="center"><br><i>Never waste an opportunity to tell someone you love them.</i></p>
 <!-- ADVICE:END -->
 
 ---
