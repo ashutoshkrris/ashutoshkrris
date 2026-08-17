@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never waste an opportunity to tell someone you love them.</i></p>
+<p align="center"><br><i>Most things look better when you put them in a circle.</i></p>
 <!-- ADVICE:END -->
 
 ---
