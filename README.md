@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Drink a glass of water before meals.</i></p>
+<p align="center"><br><i>Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.</i></p>
 <!-- ADVICE:END -->
 
 ---
