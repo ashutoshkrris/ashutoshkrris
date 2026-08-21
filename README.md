@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't use Excel or Powerpoint documents for your basic word processing needs.</i></p>
+<p align="center"><br><i>To improve productivity, always have a shittier task to put off.</i></p>
 <!-- ADVICE:END -->
 
 ---
