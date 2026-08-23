@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Pedantry is fine, unless you're on the receiving end. And not a pedant.</i></p>
+<p align="center"><br><i>Don't be afraid to ask questions.</i></p>
 <!-- ADVICE:END -->
 
 ---
