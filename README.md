@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When faced with a choice, do both.</i></p>
+<p align="center"><br><i>Everything matters, but nothing matters that much.</i></p>
 <!-- ADVICE:END -->
 
 ---
