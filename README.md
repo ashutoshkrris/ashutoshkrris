@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>No "brand" is your friend.</i></p>
+<p align="center"><br><i>Try using an old idea.</i></p>
 <!-- ADVICE:END -->
 
 ---
