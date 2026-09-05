@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You have as many hours in a day as the people you admire most.</i></p>
+<p align="center"><br><i>Gratitude is said to be the secret to happiness.</i></p>
 <!-- ADVICE:END -->
 
 ---
