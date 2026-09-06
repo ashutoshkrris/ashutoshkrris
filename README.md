@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Gratitude is said to be the secret to happiness.</i></p>
+<p align="center"><br><i>When you're looking up at birds flying overhead, keep your mouth closed.</i></p>
 <!-- ADVICE:END -->
 
 ---
