@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always the burrito.</i></p>
+<p align="center"><br><i>Put a piece of kitchen roll in with your bag of leaves to make them last longer.</i></p>
 <!-- ADVICE:END -->
 
 ---
