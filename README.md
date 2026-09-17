@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try to not compliment people on things they don't control.</i></p>
+<p align="center"><br><i>Share positive energy.</i></p>
 <!-- ADVICE:END -->
 
 ---
