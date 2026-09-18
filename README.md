@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Share positive energy.</i></p>
+<p align="center"><br><i>Just because you are offended, doesn't mean you are right.</i></p>
 <!-- ADVICE:END -->
 
 ---
