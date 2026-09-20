@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If it ain't broke don't fix it.</i></p>
+<p align="center"><br><i>Turn jeans inside out when washing them to help preserve their colour.</i></p>
 <!-- ADVICE:END -->
 
 ---
