@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.</i></p>
+<p align="center"><br><i>When you're looking up at birds flying overhead, keep your mouth closed.</i></p>
 <!-- ADVICE:END -->
 
 ---
