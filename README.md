@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you're looking up at birds flying overhead, keep your mouth closed.</i></p>
+<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i></p>
 <!-- ADVICE:END -->
 
 ---
