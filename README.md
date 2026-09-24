@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you have grandparents or parents - Talk to them more. Ask them about their life experiences.</i></p>
+<p align="center"><br><i>Always the burrito.</i></p>
 <!-- ADVICE:END -->
 
 ---
