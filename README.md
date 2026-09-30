@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Make choices and dont look back.</i></p>
+<p align="center"><br><i>Life is better when you sing about bananas.</i></p>
 <!-- ADVICE:END -->
 
 ---
