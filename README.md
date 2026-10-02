@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you get stuck, try doing the opposite of what the solution requires.</i></p>
+<p align="center"><br><i>If it ain't broke don't fix it.</i></p>
 <!-- ADVICE:END -->
 
 ---
