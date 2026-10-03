@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If it ain't broke don't fix it.</i></p>
+<p align="center"><br><i>To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.</i></p>
 <!-- ADVICE:END -->
 
 ---
