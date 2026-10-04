@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.</i></p>
+<p align="center"><br><i>Pedantry is fine, unless you're on the receiving end. And not a pedant.</i></p>
 <!-- ADVICE:END -->
 
 ---
