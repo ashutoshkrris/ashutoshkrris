@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Never let your Mother cut your hair.</i></p>
+<p align="center"><br><i>What could you increase? What could you reduce?</i></p>
 <!-- ADVICE:END -->
 
 ---
