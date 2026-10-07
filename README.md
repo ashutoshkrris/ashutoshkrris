@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>What could you increase? What could you reduce?</i></p>
+<p align="center"><br><i>Accept advice.</i></p>
 <!-- ADVICE:END -->
 
 ---
