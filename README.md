@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Mercy is the better part of justice.</i></p>
+<p align="center"><br><i>Do not check work email on your days off.</i></p>
 <!-- ADVICE:END -->
 
 ---
