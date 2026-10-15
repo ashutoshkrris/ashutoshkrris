@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Repeat people's names when you meet them.</i></p>
+<p align="center"><br><i>It is easy to sit up and take notice, what's difficult is getting up and taking action.</i></p>
 <!-- ADVICE:END -->
 
 ---
