@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It is easy to sit up and take notice, what's difficult is getting up and taking action.</i></p>
+<p align="center"><br><i>The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.</i></p>
 <!-- ADVICE:END -->
 
 ---
