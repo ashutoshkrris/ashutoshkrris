@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Sometimes it's best to ignore other people's advice.</i></p>
+<p align="center"><br><i>If you don't like the opinion you've been given, get another one.</i></p>
 <!-- ADVICE:END -->
 
 ---
