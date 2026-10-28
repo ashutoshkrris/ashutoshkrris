@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>When you look around and don't see anyone you respect, its time to leave.</i></p>
+<p align="center"><br><i>Opinions are like arseholes, everyone has one.</i></p>
 <!-- ADVICE:END -->
 
 ---
