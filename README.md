@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>As you get older, learn never to trust a fart.</i></p>
+<p align="center"><br><i>Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.</i></p>
 <!-- ADVICE:END -->
 
 ---
