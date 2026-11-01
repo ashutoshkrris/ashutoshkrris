@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.</i></p>
+<p align="center"><br><i>There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.</i></p>
 <!-- ADVICE:END -->
 
 ---
