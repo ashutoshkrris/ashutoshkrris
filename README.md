@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>You will always regret the round of Tequila.</i></p>
+<p align="center"><br><i>A nod is as good as a wink to a blind horse.</i></p>
 <!-- ADVICE:END -->
 
 ---
