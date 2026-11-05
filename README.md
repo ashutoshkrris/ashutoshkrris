@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>A nod is as good as a wink to a blind horse.</i></p>
+<p align="center"><br><i>If you don't like the opinion you've been given, get another one.</i></p>
 <!-- ADVICE:END -->
 
 ---
