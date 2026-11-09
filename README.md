@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>If you can't do anything about it, there's no point in worrying about it.</i></p>
+<p align="center"><br><i>Work is never as important as you think it is.</i></p>
 <!-- ADVICE:END -->
 
 ---
