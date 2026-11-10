@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Work is never as important as you think it is.</i></p>
+<p align="center"><br><i>Most things done in secrecy are better left undone.</i></p>
 <!-- ADVICE:END -->
 
 ---
