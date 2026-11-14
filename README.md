@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Always seek out advice or opinions when making a decision.</i></p>
+<p align="center"><br><i>Learn to handle criticism.</i></p>
 <!-- ADVICE:END -->
 
 ---
