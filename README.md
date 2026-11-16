@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>Try using an old idea.</i></p>
+<p align="center"><br><i>Rule number 1: Try not to die. Rule number 2: Don't be a dick.</i></p>
 <!-- ADVICE:END -->
 
 ---
