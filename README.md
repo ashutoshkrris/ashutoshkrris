@@ -82,7 +82,7 @@ I am a Software Engineer passionate about backend architecture, full-stack web d
 ## 💡 Random Advice
 
 <!-- ADVICE:START -->
-<p align="center"><br><i>It always seems impossible, until it's done.</i></p>
+<p align="center"><br><i>Big things have small beginnings.</i></p>
 <!-- ADVICE:END -->
 
 ---
